@@ -13,7 +13,7 @@ function datedFileRm($destPath, $days) {
         # filemtime() is file date; filectime() is inode file date
         $ftime = filemtime("$destPath/$file"); # get file time
         $stime = date('Ymd', $ftime);          # get string version of $ftime
-        if ($stime <= date('Ymd', strtotime("-$days days")) && $file != "." && $file != "..") {
+        if ($file != '.' && $file != '..' && $stime <= date('Ymd', strtotime("-$days days"))) {
             unlink("$destPath/$file");
             echo date('Y-m-d H:i:s ') . "$destPath/$file removed.\n";
         }
