@@ -6,7 +6,7 @@ function errHandler($errNo, $errStr, $errFile, $errLine) {
     if ($errNo == E_NOTICE || $errNo == E_WARNING) {
         throw new ErrorException($msg, $errNo);
     } else {
-        echo $msg;
+        echo date('Y-m-d H:i:s ') . "$msg\n";
     }
 }
 
