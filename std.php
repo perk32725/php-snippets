@@ -6,13 +6,14 @@ error_reporting(E_ALL);
 date_default_timezone_set('America/New_York');
 define("EXEC_PATH", dirname(__FILE__)); # program resides at EXEC_PATH (const)
 
-$iAm      = basename(__FILE__);
+$iAm      = basename($argv[0], ".php");
+$imAt     = dirname($argv[0]);
 $myPid    = getmypid();
 $logfile  = null; # can be set to null, STDOUT, or STDERR
 $childPid = 0;
 
 # --- set logname to something reasonable:
-$logname = "/var/log/" . str_replace(".php", ".log", $iAm);
+$logname = "/var/log/" . "$iAm.log";
 
 if ($argc > 1) {     # means we have some args passed to us
     $arg1 = argv[1]; #
@@ -26,10 +27,11 @@ function stdlog($msg) {
     global $logfile;
     global $logname;
     global $myPid;
+    global $argv;
 
     if (!$logfile) {
         if (!($logfile = fopen($logname, "a"))) {
-            fprintf(STDERR, date('Y-m-d H:i:s ') . "[$myPid] couldn't fopen() $logname, exiting\n");
+            fprintf(STDERR, date('Y-m-d H:i:s ') . "[$myPid] $argv[0]: couldn't fopen() $logname, exiting\n");
             exit;
         }
     }
