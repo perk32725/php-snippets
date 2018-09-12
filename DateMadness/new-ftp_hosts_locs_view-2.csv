@@ -1,0 +1,589 @@
+﻿ID,date,SID,comic_name,source,filemask,type,destination,path,filename
+,,6,Color Me Posh,sunday_comics/color_me_posh,cmp%symd%.comb_qs_Vacation.tif,Sunday Color,/%dS%/,,cmp%symd%_qs.tif
+,,6,Baldo Sunday Spanish,Sunday_Comics/Baldo_Spanish_Sunday,basp%symd%.tsc_Vacation.tif,Sunday Color,/%dS%/,,basp%symd%.tsc.tif
+,,6,Baldo Sunday Spanish,Sunday_Comics/Baldo_Spanish_Sunday,basp%symd%.qsl_Vacation.tif,Sunday Color,/%dS%/,,basp%symd%.qsl.tif
+,,6,Baldo Sunday Spanish,Sunday_Comics/Baldo_Spanish_Sunday,basp%symd%.tsl_Vacation.tif,Sunday Color,/%dS%/,,basp%symd%.tsl.tif
+,,6,Color Me Posh,sunday_comics/color_me_posh,cmp%symd%comb_ht_Vacation.tif,Sunday Color,/%dS%/,,cmp%ds_ht.tif
+,,6,Color Me Posh,Sunday_Comics/color_me_posh,cmp%symd%tsk_Vacation.tif,Sunday Color,/%dS%/,,cmp%symd%_tsk.tif
+,,6,Adam,Sunday_Comics/Adam/,ad%symd%comb_hs_Vacation.tif,Sunday Color,/%dS%/,,adm%sW%comb_hs.tif
+,,6,Adam,Sunday_Comics/Adam/,ad%symd%comb_qs_Vacation.tif,Sunday Color,/%dS%/,,adm%sW%comb_qs.tif
+,,6,Adam,Sunday_Comics/Adam/,ad%symd%comb_ts_Vacation.tif,Sunday Color,/%dS%/,,adm%sW%comb_ts.tif
+,,6,Adam,Sunday_Comics/Adam/,ad%symd%hsc_Vacation.tif,Sunday Color,/%dS%/,,adm%sW%hsc.tif
+,,6,Adam,Sunday_Comics/Adam/,ad%symd%hsl_Vacation.tif,Sunday Color,/%dS%/,,adm%sW%hsl.tif
+,,6,Adam,Sunday_Comics/Adam/,ad%symd%qsc_Vacation.tif,Sunday Color,/%dS%/,,adm%sW%qsc.tif
+,,6,Adam,Sunday_Comics/Adam/,ad%symd%qsl_Vacation.tif,Sunday Color,/%dS%/,,adm%sW%qsl.tif
+,,6,Adam,Sunday_Comics/Adam/,ad%symd%tsc_Vacation.tif,Sunday Color,/%dS%/,,adm%sW%tsc.tif
+,,6,Adam,Sunday_Comics/Adam/,ad%symd%tsl_Vacation.tif,Sunday Color,/%dS%/,,adm%sW%tsl.tif
+,,6,Argyle Sweater,Sunday_Comics/Argyle_Sweater_Sunday/,tas%symd%comb_qs_Vacation.tif,Sunday Color,/%dS%/,,asw%sW%qscmyk.tif
+,,6,Argyle Sweater,Sunday_Comics/Argyle_Sweater_Sunday/,tas%symd%comb_ts_Vacation.tif,Sunday Color,/%dS%/,,asw%sW%tscmyk.tif
+,,6,Argyle Sweater,Sunday_Comics/Argyle_Sweater_Sunday/,tas%symd%qsc_Vacation.tif,Sunday Color,/%dS%/,,asw%sW%qsc.tif
+,,6,Argyle Sweater,Sunday_Comics/Argyle_Sweater_Sunday/,tas%symd%qsl_Vacation.tif,Sunday Color,/%dS%/,,asw%sW%qsl.tif
+,,6,Argyle Sweater,Sunday_Comics/Argyle_Sweater_Sunday/,tas%symd%tsc_Vacation.tif,Sunday Color,/%dS%/,,asw%sW%tsc.tif
+,,6,Argyle Sweater,Sunday_Comics/Argyle_Sweater_Sunday/,tas%symd%tsl_Vacation.tif,Sunday Color,/%dS%/,,asw%sW%tsl.tif
+,,6,Baldo,Sunday_Comics/Baldo_Sunday/,ba%symd%comb_qs_Vacation.tif,Sunday Color,/%dS%/,,bal%sW%qscmyk.tif
+,,6,Baldo,Sunday_Comics/Baldo_Sunday/,ba%symd%comb_ts_Vacation.tif,Sunday Color,/%dS%/,,bal%sW%tscmyk.tif
+,,6,Baldo,Sunday_Comics/Baldo_Sunday/,ba%symd%qsc_Vacation.tif,Sunday Color,/%dS%/,,bal%sW%qsc.tif
+,,6,Baldo,Sunday_Comics/Baldo_Sunday/,ba%symd%qsl_Vacation.tif,Sunday Color,/%dS%/,,bal%sW%qsl.tif
+,,6,Baldo,Sunday_Comics/Baldo_Sunday/,ba%symd%tsc_Vacation.tif,Sunday Color,/%dS%/,,bal%sW%tsc.tif
+,,6,Baldo,Sunday_Comics/Baldo_Sunday/,ba%symd%tsl_Vacation.tif,Sunday Color,/%dS%/,,bal%sW%tsl.tif
+,,6,Bleachers,Sunday_Comics/Bleachers_Sunday/,bl%symd%comb_qs_Vacation.tif,Sunday Color,/%dS%/,,blc%sW%comb_qs.tif
+,,6,Bleachers,Sunday_Comics/Bleachers_Sunday/,bl%symd%comb_ts_Vacation.tif,Sunday Color,/%dS%/,,blc%sW%comb_ts.tif
+,,6,Bleachers,Sunday_Comics/Bleachers_Sunday/,bl%symd%qsc_Vacation.tif,Sunday Color,/%dS%/,,blc%sW%qsc.tif
+,,6,Bleachers,Sunday_Comics/Bleachers_Sunday/,bl%symd%qsl_Vacation.tif,Sunday Color,/%dS%/,,blc%sW%qsl.tif
+,,6,Bleachers,Sunday_Comics/Bleachers_Sunday/,bl%symd%tsc_Vacation.tif,Sunday Color,/%dS%/,,blc%sW%tsc.tif
+,,6,Bleachers,Sunday_Comics/Bleachers_Sunday/,bl%symd%tsl_Vacation.tif,Sunday Color,/%dS%/,,blc%sW%tsl.tif
+,,6,Breaking Cat News,Sunday_Comics/Breaking_Cat_News_Sundays/,bcn%symd%comb_qs_Vacation.tif,Sunday Color,/%dS%/,,bcn%sW%comb_qs.tif
+,,6,Breaking Cat News,Sunday_Comics/Breaking_Cat_News_Sundays/,bcn%symd%comb_ts_Vacation.tif,Sunday Color,/%dS%/,,bcn%sW%comb_ts.tif
+,,6,Calvin,Sunday_Comics/Calvin/,ch%symd%hsc_Vacation.tif,Sunday Color,/%dS%/,,ch%sW%hsc.tif
+,,6,Calvin,Sunday_Comics/Calvin/,ch%symd%hsl_Vacation.tif,Sunday Color,/%dS%/,,ch%sW%hsl.tif
+,,6,Close to Home,Sunday_Comics/Close_to_Home/,cth%symd%comb_qs_Vacation.tif,Sunday Color,/%dS%/,,cls%sW%qscmyk.tif
+,,6,Close to Home,Sunday_Comics/Close_to_Home/,cth%symd%comb_ts_Vacation.tif,Sunday Color,/%dS%/,,cls%sW%tscmyk.tif
+,,6,Close to Home,Sunday_Comics/Close_to_Home/,cth%symd%qsc_Vacation.tif,Sunday Color,/%dS%/,,cls%sW%qsc.tif
+,,6,Close to Home,Sunday_Comics/Close_to_Home/,cth%symd%qsl_Vacation.tif,Sunday Color,/%dS%/,,cls%sW%qsl.tif
+,,6,Close to Home,Sunday_Comics/Close_to_Home/,cth%symd%tsc_Vacation.tif,Sunday Color,/%dS%/,,cls%sW%tsc.tif
+,,6,Close to Home,Sunday_Comics/Close_to_Home/,cth%symd%tsl_Vacation.tif,Sunday Color,/%dS%/,,cls%sW%tsl.tif
+,,6,Color Me Posh,Sunday_Comics/Color_Me_Posh/,cmp%symd%comb_ht_Vacation.tif,Sunday Color,/%dS%/,,cmp%sW%comb_ht.tif
+,,6,Color Me Posh,Sunday_Comics/Color_Me_Posh/,cmp%symd%comb_qs_Vacation.tif,Sunday Color,/%dS%/,,cmp%sW%comb_qs.tif
+,,6,Color Me Posh,Sunday_Comics/Color_Me_Posh/,cmp%symd%htc_Vacation.tif,Sunday Color,/%dS%/,,cmp%sW%htc.tif
+,,6,Color Me Posh,Sunday_Comics/Color_Me_Posh/,cmp%symd%htl_Vacation.tif,Sunday Color,/%dS%/,,cmp%sW%htl.tif
+,,6,Color Me Posh,Sunday_Comics/Color_Me_Posh/,cmp%symd%qsc_Vacation.tif,Sunday Color,/%dS%/,,cmp%sW%qsc.tif
+,,6,Color Me Posh,Sunday_Comics/Color_Me_Posh/,cmp%symd%qsl_Vacation.tif,Sunday Color,/%dS%/,,cmp%sW%qsl.tif
+,,6,Color Me Posh,Sunday_Comics/Color_Me_Posh/,cmp%symd%tsk_Vacation.tif,Sunday Color,/%dS%/,,cmp%sW%tsk.tif
+,,6,Cornered,Sunday_Comics/Cornered_Sunday/,cos_c%symd%_Vacation.tif,Sunday Color,/%dS%/,,cor_c%sW%.tif
+,,6,Cornered,Sunday_Comics/Cornered_Sunday/,cos_c%symd%.pdf,Sunday Color,/%dS%/,,cor_c%sW%.pdf
+,,6,Deflocked,Sunday_Comics/Deflocked_Sundays/,dft%symd%comb_qs_Vacation.tif,Sunday Color,/%dS%/,,def%sW%qscmyk.tif
+,,6,Deflocked,Sunday_Comics/Deflocked_Sundays/,dft%symd%comb_ts_Vacation.tif,Sunday Color,/%dS%/,,def%sW%tscmyk.tif
+,,6,Deflocked,Sunday_Comics/Deflocked_Sundays/,dft%symd%qsc_Vacation.tif,Sunday Color,/%dS%/,,def%sW%qsc.tif
+,,6,Deflocked,Sunday_Comics/Deflocked_Sundays/,dft%symd%qsl_Vacation.tif,Sunday Color,/%dS%/,,def%sW%qsl.tif
+,,6,Deflocked,Sunday_Comics/Deflocked_Sundays/,dft%symd%tsc_Vacation.tif,Sunday Color,/%dS%/,,def%sW%tsc.tif
+,,6,Deflocked,Sunday_Comics/Deflocked_Sundays/,dft%symd%tsl_Vacation.tif,Sunday Color,/%dS%/,,def%sW%tsl.tif
+,,6,Dilbert,Sunday_Comics/Dilbert_Sunday/,dt%symd%comb_ft.pdf,Sunday Color,/%dS%/,,dt%sW%comb_ft.pdf
+,,6,Dilbert,Sunday_Comics/Dilbert_Sunday/,dt%symd%comb_ft_Vacation.tif,Sunday Color,/%dS%/,,dt%sW%comb_ft.tif
+,,6,Dilbert,Sunday_Comics/Dilbert_Sunday/,dt%symd%comb_ht_Vacation.tif,Sunday Color,/%dS%/,,dt%sW%comb_ht.tif
+,,6,Dilbert,Sunday_Comics/Dilbert_Sunday/,dt%symd%comb_lv_Vacation.tif,Sunday Color,/%dS%/,,dt%sW%comb_lv.tif
+,,6,Dilbert,Sunday_Comics/Dilbert_Sunday/,dt%symd%comb_qs.pdf,Sunday Color,/%dS%/,,dt%sW%comb_qs.pdf
+,,6,Dilbert,Sunday_Comics/Dilbert_Sunday/,dt%symd%comb_qs_Vacation.tif,Sunday Color,/%dS%/,,dt%sW%comb_qs.tif
+,,6,Dilbert,Sunday_Comics/Dilbert_Sunday/,dt%symd%comb_ts_Vacation.tif,Sunday Color,/%dS%/,,dt%sW%comb_ts.tif
+,,6,Dilbert,Sunday_Comics/Dilbert_Sunday/,dt%symd%ftc_Vacation.tif,Sunday Color,/%dS%/,,dt%sW%ftc.tif
+,,6,Dilbert,Sunday_Comics/Dilbert_Sunday/,dt%symd%ftl_Vacation.tif,Sunday Color,/%dS%/,,dt%sW%ftl.tif
+,,6,Dilbert,Sunday_Comics/Dilbert_Sunday/,dt%symd%htc_Vacation.tif,Sunday Color,/%dS%/,,dt%sW%htc.tif
+,,6,Dilbert,Sunday_Comics/Dilbert_Sunday/,dt%symd%htk_Vacation.tif,Sunday Color,/%dS%/,,dt%sW%htk.tif
+,,6,Dilbert,Sunday_Comics/Dilbert_Sunday/,dt%symd%htl_Vacation.tif,Sunday Color,/%dS%/,,dt%sW%htl.tif
+,,6,Dilbert,Sunday_Comics/Dilbert_Sunday/,dt%symd%lvc_Vacation.tif,Sunday Color,/%dS%/,,dt%sW%lvc.tif
+,,6,Dilbert,Sunday_Comics/Dilbert_Sunday/,dt%symd%lvl_Vacation.tif,Sunday Color,/%dS%/,,dt%sW%lvl.tif
+,,6,Dilbert,Sunday_Comics/Dilbert_Sunday/,dt%symd%qsc_Vacation.tif,Sunday Color,/%dS%/,,dt%sW%qsc.tif
+,,6,Dilbert,Sunday_Comics/Dilbert_Sunday/,dt%symd%qsk_Vacation.tif,Sunday Color,/%dS%/,,dt%sW%qsk.tif
+,,6,Dilbert,Sunday_Comics/Dilbert_Sunday/,dt%symd%qsl_Vacation.tif,Sunday Color,/%dS%/,,dt%sW%qsl.tif
+,,6,Dilbert,Sunday_Comics/Dilbert_Sunday/,dt%symd%tsc_Vacation.tif,Sunday Color,/%dS%/,,dt%sW%tsc.tif
+,,6,Dilbert,Sunday_Comics/Dilbert_Sunday/,dt%symd%tsl_Vacation.tif,Sunday Color,/%dS%/,,dt%sW%tsl.tif
+,,6,Doonesbury,Sunday_Comics/Doonesbury/,db%symd%comb_ft_Vacation.tif,Sunday Color,/%dS%/,,don%sW%ftcmyk.tif
+,,6,Doonesbury,Sunday_Comics/Doonesbury/,db%symd%comb_hs_Vacation.tif,Sunday Color,/%dS%/,,don%sW%hscmyk.tif
+,,6,Doonesbury,Sunday_Comics/Doonesbury/,db%symd%comb_lv_Vacation.tif,Sunday Color,/%dS%/,,don%sW%lvcmyk.tif
+,,6,Doonesbury,Sunday_Comics/Doonesbury/,db%symd%comb_mv_Vacation.tif,Sunday Color,/%dS%/,,don%sW%mvcmyk.tif
+,,6,Doonesbury,Sunday_Comics/Doonesbury/,db%symd%comb_sv_Vacation.tif,Sunday Color,/%dS%/,,don%sW%svcmyk.tif
+,,6,Doonesbury,Sunday_Comics/Doonesbury/,db%symd%comb_ts_Vacation.tif,Sunday Color,/%dS%/,,don%sW%tscmyk.tif
+,,6,Doonesbury,Sunday_Comics/Doonesbury/,db%symd%ftc_Vacation.tif,Sunday Color,/%dS%/,,don%sW%ftc.tif
+,,6,Doonesbury,Sunday_Comics/Doonesbury/,db%symd%ftk_Vacation.tif,Sunday Color,/%dS%/,,don%sW%ftk.tif
+,,6,Doonesbury,Sunday_Comics/Doonesbury/,db%symd%ftl_Vacation.tif,Sunday Color,/%dS%/,,don%sW%ftl.tif
+,,6,Doonesbury,Sunday_Comics/Doonesbury/,db%symd%hsc_Vacation.tif,Sunday Color,/%dS%/,,don%sW%hsc.tif
+,,6,Doonesbury,Sunday_Comics/Doonesbury/,db%symd%hsk_Vacation.tif,Sunday Color,/%dS%/,,don%sW%hsk.tif
+,,6,Doonesbury,Sunday_Comics/Doonesbury/,db%symd%hsl_Vacation.tif,Sunday Color,/%dS%/,,don%sW%hsl.tif
+,,6,Doonesbury,Sunday_Comics/Doonesbury/,db%symd%lvc_Vacation.tif,Sunday Color,/%dS%/,,don%sW%lvc.tif
+,,6,Doonesbury,Sunday_Comics/Doonesbury/,db%symd%lvl_Vacation.tif,Sunday Color,/%dS%/,,don%sW%lvl.tif
+,,6,Doonesbury,Sunday_Comics/Doonesbury/,db%symd%mvc_Vacation.tif,Sunday Color,/%dS%/,,don%sW%mvc.tif
+,,6,Doonesbury,Sunday_Comics/Doonesbury/,db%symd%mvk_Vacation.tif,Sunday Color,/%dS%/,,don%sW%mvk.tif
+,,6,Doonesbury,Sunday_Comics/Doonesbury/,don%symd%mvl_Vacation.tif,Sunday Color,/%dS%/,,don%sW%mvl.tif
+,,6,Doonesbury,Sunday_Comics/Doonesbury/,db%symd%svc_Vacation.tif,Sunday Color,/%dS%/,,don%sW%svc.tif
+,,6,Doonesbury,Sunday_Comics/Doonesbury/,db%symd%svl_Vacation.tif,Sunday Color,/%dS%/,,don%sW%svl.tif
+,,6,Doonesbury,Sunday_Comics/Doonesbury/,db%symd%tsc_Vacation.tif,Sunday Color,/%dS%/,,don%sW%tsc.tif
+,,6,Doonesbury,Sunday_Comics/Doonesbury/,db%symd%tsk_Vacation.tif,Sunday Color,/%dS%/,,don%sW%tsk.tif
+,,6,Doonesbury,Sunday_Comics/Doonesbury/,db%symd%tsl_Vacation.tif,Sunday Color,/%dS%/,,don%sW%tsl.tif
+,,6,Duplex,Sunday_Comics/Duplex_Sundays/,dp%symd%comb_qs_Vacation.tif,Sunday Color,/%dS%/,,dup%sW%qscmyk.tif
+,,6,Duplex,Sunday_Comics/Duplex_Sundays/,dp%symd%comb_ts_Vacation.tif,Sunday Color,/%dS%/,,dup%sW%tscmyk.tif
+,,6,Duplex,Sunday_Comics/Duplex_Sundays/,dp%symd%qsc_Vacation.tif,Sunday Color,/%dS%/,,dup%sW%qsc.tif
+,,6,Duplex,Sunday_Comics/Duplex_Sundays/,dp%symd%qsl_Vacation.tif,Sunday Color,/%dS%/,,dup%sW%qsl.tif
+,,6,Duplex,Sunday_Comics/Duplex_Sundays/,dp%symd%tsc_Vacation.tif,Sunday Color,/%dS%/,,dup%sW%tsc.tif
+,,6,Duplex,Sunday_Comics/Duplex_Sundays/,dp%symd%tsl_Vacation.tif,Sunday Color,/%dS%/,,dup%sW%tsl.tif
+,,6,Flying McCoys,Sunday_Comics/Flying_McCoys_Sundays/,fmc%symd%comb_qs_Vacation.tif,Sunday Color,/%dS%/,,fly%sW%qscmyk.tif
+,,6,Flying McCoys,Sunday_Comics/Flying_McCoys_Sundays/,fmc%symd%comb_ts_Vacation.tif,Sunday Color,/%dS%/,,fly%sW%tscmyk.tif
+,,6,Flying McCoys,Sunday_Comics/Flying_McCoys_Sundays/,fmc%symd%qsc_Vacation.tif,Sunday Color,/%dS%/,,fly%sW%qsc.tif
+,,6,Flying McCoys,Sunday_Comics/Flying_McCoys_Sundays/,fmc%symd%qsl_Vacation.tif,Sunday Color,/%dS%/,,fly%sW%qsl.tif
+,,6,Flying McCoys,Sunday_Comics/Flying_McCoys_Sundays/,fmc%symd%tsc_Vacation.tif,Sunday Color,/%dS%/,,fly%sW%tsc.tif
+,,6,Flying McCoys,Sunday_Comics/Flying_McCoys_Sundays/,fmc%symd%tsl_Vacation.tif,Sunday Color,/%dS%/,,fly%sW%tsl.tif
+,,6,Foxtrot,Sunday_Comics/Foxtrot/,fox%symd%comb_hs_Vacation.tif,Sunday Color,/%dS%/,,fox%sW%hscmyk.tif
+,,6,Foxtrot,Sunday_Comics/Foxtrot/,fox%symd%comb_qs_Vacation.tif,Sunday Color,/%dS%/,,fox%sW%qscmyk.tif
+,,6,Foxtrot,Sunday_Comics/Foxtrot/,fox%symd%comb_ts_Vacation.tif,Sunday Color,/%dS%/,,fox%sW%tscmyk.tif
+,,6,Foxtrot,Sunday_Comics/Foxtrot/,fox%symd%hsc_Vacation.tif,Sunday Color,/%dS%/,,fox%sW%hsc.tif
+,,6,Foxtrot,Sunday_Comics/Foxtrot/,fox%symd%hsl_Vacation.tif,Sunday Color,/%dS%/,,fox%sW%hsl.tif
+,,6,Foxtrot,Sunday_Comics/Foxtrot/,fox%symd%qsc_Vacation.tif,Sunday Color,/%dS%/,,fox%sW%qsc.tif
+,,6,Foxtrot,Sunday_Comics/Foxtrot/,fox%symd%qsl_Vacation.tif,Sunday Color,/%dS%/,,fox%sW%qsl.tif
+,,6,Foxtrot,Sunday_Comics/Foxtrot/,fox%symd%tsc_Vacation.tif,Sunday Color,/%dS%/,,fox%sW%tsc.tif
+,,6,Foxtrot,Sunday_Comics/Foxtrot/,fox%symd%tsl_Vacation.tif,Sunday Color,/%dS%/,,fox%sW%tsl.tif
+,,6,Fred Basset,Sunday_Comics/Fred_Basset_Sunday/,fba%symd%comb_ht_Vacation.tif,Sunday Color,/%dS%/,,bst%sW%htcmyk.tif
+,,6,Fred Basset,Sunday_Comics/Fred_Basset_Sunday/,fba%symd%comb_ts_Vacation.tif,Sunday Color,/%dS%/,,bst%sW%tscmyk.tif
+,,6,Fred Basset,Sunday_Comics/Fred_Basset_Sunday/,fba%symd%htc_Vacation.tif,Sunday Color,/%dS%/,,bst%sW%htc.tif
+,,6,Fred Basset,Sunday_Comics/Fred_Basset_Sunday/,fba%symd%htl_Vacation.tif,Sunday Color,/%dS%/,,bst%sW%htl.tif
+,,6,Fred Basset,Sunday_Comics/Fred_Basset_Sunday/,fba%symd%tsc_Vacation.tif,Sunday Color,/%dS%/,,bst%sW%tsc.tif
+,,6,Fred Basset,Sunday_Comics/Fred_Basset_Sunday/,fba%symd%tsl_Vacation.tif,Sunday Color,/%dS%/,,bst%sW%tsl.tif
+,,6,Fusco,Sunday_Comics/Fusco_Sunday/,fu%symd%comb_ht_Vacation.tif,Sunday Color,/%dS%/,,fsc%sW%htcmyk.tif
+,,6,Fusco,Sunday_Comics/Fusco_Sunday/,fu%symd%comb_qs_Vacation.tif,Sunday Color,/%dS%/,,fsc%sW%qscmyk.tif
+,,6,Fusco,Sunday_Comics/Fusco_Sunday/,fu%symd%comb_ts_Vacation.tif,Sunday Color,/%dS%/,,fsc%sW%tscmyk.tif
+,,6,Fusco,Sunday_Comics/Fusco_Sunday/,fu%symd%htc_Vacation.tif,Sunday Color,/%dS%/,,fsc%sW%htc.tif
+,,6,Fusco,Sunday_Comics/Fusco_Sunday/,fu%symd%htl_Vacation.tif,Sunday Color,/%dS%/,,fsc%sW%htl.tif
+,,6,Fusco,Sunday_Comics/Fusco_Sunday/,fu%symd%qsc_Vacation.tif,Sunday Color,/%dS%/,,fsc%sW%qsc.tif
+,,6,Fusco,Sunday_Comics/Fusco_Sunday/,fu%symd%qsl_Vacation.tif,Sunday Color,/%dS%/,,fsc%sW%qsl.tif
+,,6,Fusco,Sunday_Comics/Fusco_Sunday/,fu%symd%tsc_Vacation.tif,Sunday Color,/%dS%/,,fsc%sW%tsc.tif
+,,6,Fusco,Sunday_Comics/Fusco_Sunday/,fu%symd%tsl_Vacation.tif,Sunday Color,/%dS%/,,fsc%sW%tsl.tif
+,,6,Garfield,Sunday_Comics/Garfield/,ga%symd%comb_ft_Vacation.tif,Sunday Color,/%dS%/,,gar%sW%ftcmyk.tif
+,,6,Garfield,Sunday_Comics/Garfield/,ga%symd%comb_hs_Vacation.tif,Sunday Color,/%dS%/,,gar%sW%hscmyk.tif
+,,6,Garfield,Sunday_Comics/Garfield/,ga%symd%comb_mv_Vacation.tif,Sunday Color,/%dS%/,,gar%sW%mvcmyk.tif
+,,6,Garfield,Sunday_Comics/Garfield/,ga%symd%comb_qs_Vacation.tif,Sunday Color,/%dS%/,,gar%sW%qscmyk.tif
+,,6,Garfield,Sunday_Comics/Garfield/,ga%symd%comb_qs.pdf,Sunday Color,/%dS%/,,gar%sW%qscmyk.pdf
+,,6,Garfield,Sunday_Comics/Garfield/,ga%symd%comb_sv_Vacation.tif,Sunday Color,/%dS%/,,gar%sW%svcmyk.tif
+,,6,Garfield,Sunday_Comics/Garfield/,ga%symd%comb_ts_Vacation.tif,Sunday Color,/%dS%/,,gar%sW%tscmyk.tif
+,,6,Garfield,Sunday_Comics/Garfield/,ga%symd%ftc_Vacation.tif,Sunday Color,/%dS%/,,gar%sW%ftc.tif
+,,6,Garfield,Sunday_Comics/Garfield/,ga%symd%ftl_Vacation.tif,Sunday Color,/%dS%/,,gar%sW%ftl.tif
+,,6,Garfield,Sunday_Comics/Garfield/,ga%symd%hsc_Vacation.tif,Sunday Color,/%dS%/,,gar%sW%hsc.tif
+,,6,Garfield,Sunday_Comics/Garfield/,ga%symd%hsk_Vacation.tif,Sunday Color,/%dS%/,,gar%sW%hsk.tif
+,,6,Garfield,Sunday_Comics/Garfield/,ga%symd%hsl_Vacation.tif,Sunday Color,/%dS%/,,gar%sW%hsl.tif
+,,6,Garfield,Sunday_Comics/Garfield/,ga%symd%mvc_Vacation.tif,Sunday Color,/%dS%/,,gar%sW%mvc.tif
+,,6,Garfield,Sunday_Comics/Garfield/,ga%symd%mvl_Vacation.tif,Sunday Color,/%dS%/,,gar%sW%mvl.tif
+,,6,Garfield,Sunday_Comics/Garfield/,ga%symd%qsc_Vacation.tif,Sunday Color,/%dS%/,,gar%sW%qsc.tif
+,,6,Garfield,Sunday_Comics/Garfield/,ga%symd%qsk_Vacation.tif,Sunday Color,/%dS%/,,gar%sW%qsk.tif
+,,6,Garfield,Sunday_Comics/Garfield/,ga%symd%qsl_Vacation.tif,Sunday Color,/%dS%/,,gar%sW%qsl.tif
+,,6,Garfield,Sunday_Comics/Garfield/,ga%symd%svc_Vacation.tif,Sunday Color,/%dS%/,,gar%sW%svc.tif
+,,6,Garfield,Sunday_Comics/Garfield/,ga%symd%svl_Vacation.tif,Sunday Color,/%dS%/,,gar%sW%svl.tif
+,,6,Garfield,Sunday_Comics/Garfield/,ga%symd%tsc_Vacation.tif,Sunday Color,/%dS%/,,gar%sW%tsc.tif
+,,6,Garfield,Sunday_Comics/Garfield/,ga%symd%tsl_Vacation.tif,Sunday Color,/%dS%/,,gar%sW%tsl.tif
+,,6,Heart of the City,Sunday_Comics/Heart_of_the_City/,hc%symd%comb_qs_Vacation.tif,Sunday Color,/%dS%/,,hrt%sW%qscmyk.tif
+,,6,Heart of the City,Sunday_Comics/Heart_of_the_City/,hc%symd%comb_ts_Vacation.tif,Sunday Color,/%dS%/,,hrt%sW%tscmyk.tif
+,,6,Heart of the City,Sunday_Comics/Heart_of_the_City/,hc%symd%qsc_Vacation.tif,Sunday Color,/%dS%/,,hrt%sW%qsc.tif
+,,6,Heart of the City,Sunday_Comics/Heart_of_the_City/,hc%symd%qsk_Vacation.tif,Sunday Color,/%dS%/,,hrt%sW%qsk.tif
+,,6,Heart of the City,Sunday_Comics/Heart_of_the_City/,hc%symd%qsl_Vacation.tif,Sunday Color,/%dS%/,,hrt%sW%qsl.tif
+,,6,Heart of the City,Sunday_Comics/Heart_of_the_City/,hc%symd%tsc_Vacation.tif,Sunday Color,/%dS%/,,hrt%sW%tsc.tif
+,,6,Heart of the City,Sunday_Comics/Heart_of_the_City/,hc%symd%tsl_Vacation.tif,Sunday Color,/%dS%/,,hrt%sW%tsl.tif
+,,6,La Cucaracha,Sunday_Comics/La_Cucaracha_Sunday/,lc%symd%comb_qs_Vacation.tif,Sunday Color,/%dS%/,,lac%sW%qscmyk.tif
+,,6,La Cucaracha,Sunday_Comics/La_Cucaracha_Sunday/,lc%symd%comb_ts_Vacation.tif,Sunday Color,/%dS%/,,lac%sW%tscmyk.tif
+,,6,La Cucaracha,Sunday_Comics/La_Cucaracha_Sunday/,lc%symd%qsc_Vacation.tif,Sunday Color,/%dS%/,,lac%sW%qsc.tif
+,,6,La Cucaracha,Sunday_Comics/La_Cucaracha_Sunday/,lc%symd%qsl_Vacation.tif,Sunday Color,/%dS%/,,lac%sW%qsl.tif
+,,6,La Cucaracha,Sunday_Comics/La_Cucaracha_Sunday/,lc%symd%tsc_Vacation.tif,Sunday Color,/%dS%/,,lac%sW%tsc.tif
+,,6,La Cucaracha,Sunday_Comics/La_Cucaracha_Sunday/,lc%symd%tsl_Vacation.tif,Sunday Color,/%dS%/,,lac%sW%tsl.tif
+,,6,Lio,Sunday_Comics/Lio_Sundays/,lio%symd%comb_qs_Vacation.tif,Sunday Color,/%dS%/,,lio%sW%qscmyk.tif
+,,6,Lio,Sunday_Comics/Lio_Sundays/,lio%symd%comb_ts_Vacation.tif,Sunday Color,/%dS%/,,lio%sW%tscmyk.tif
+,,6,Lio,Sunday_Comics/Lio_Sundays/,lio%symd%qsc_Vacation.tif,Sunday Color,/%dS%/,,lio%sW%qsc.tif
+,,6,Lio,Sunday_Comics/Lio_Sundays/,lio%symd%qsk_Vacation.tif,Sunday Color,/%dS%/,,lio%sW%qsk.tif
+,,6,Lio,Sunday_Comics/Lio_Sundays/,lio%symd%qsl_Vacation.tif,Sunday Color,/%dS%/,,lio%sW%qsl.tif
+,,6,Lio,Sunday_Comics/Lio_Sundays/,lio%symd%tsc_Vacation.tif,Sunday Color,/%dS%/,,lio%sW%tsc.tif
+,,6,Lio,Sunday_Comics/Lio_Sundays/,lio%symd%tsl_Vacation.tif,Sunday Color,/%dS%/,,lio%sW%tsl.tif
+,,6,Non Sequitor,Sunday_Comics/Non_Sequitur_Sundays,non%symd%comb_mv_Vacation.tif,Sunday Color,/%dS%/,,non%sW%mvcmyk.tif
+,,6,Non Sequitor,Sunday_Comics/Non_Sequitur_Sundays,non%symd%comb_sv_Vacation.tif,Sunday Color,/%dS%/,,non%sW%svcmyk.tif
+,,6,Non Sequitor,Sunday_Comics/Non_Sequitur_Sundays,non%symd%mvc_Vacation.tif,Sunday Color,/%dS%/,,non%sW%mvc.tif
+,,6,Non Sequitor,Sunday_Comics/Non_Sequitur_Sundays,non%symd%mvl_Vacation.tif,Sunday Color,/%dS%/,,non%sW%mvl.tif
+,,6,Non Sequitor,Sunday_Comics/Non_Sequitur_Sundays,non%symd%svc_Vacation.tif,Sunday Color,/%dS%/,,non%sW%svc.tif
+,,6,Non Sequitor,Sunday_Comics/Non_Sequitur_Sundays,non%symd%svl_Vacation.tif,Sunday Color,/%dS%/,,non%sW%svl.tif
+,,6,Overboard,Sunday_Comics/Overboard/,ob%symd%comb_qs_Vacation.tif,Sunday Color,/%dS%/,,ovb%sW%qscmyk.tif
+,,6,Overboard,Sunday_Comics/Overboard/,ob%symd%comb_ts_Vacation.tif,Sunday Color,/%dS%/,,ovb%sW%tscmyk.tif
+,,6,Overboard,Sunday_Comics/Overboard/,ob%symd%qsc_Vacation.tif,Sunday Color,/%dS%/,,ovb%sW%qsc.tif
+,,6,Overboard,Sunday_Comics/Overboard/,ob%symd%qsl_Vacation.tif,Sunday Color,/%dS%/,,ovb%sW%qsl.tif
+,,6,Overboard,Sunday_Comics/Overboard/,ob%symd%tsc_Vacation.tif,Sunday Color,/%dS%/,,ovb%sW%tsc.tif
+,,6,Overboard,Sunday_Comics/Overboard/,ob%symd%tsl_Vacation.tif,Sunday Color,/%dS%/,,ovb%sW%tsl.tif
+,,6,Peanuts,Sunday_Comics/Peanuts_Sunday/,pe%symd%comb_ft_Vacation.tif,Sunday Color,/%dS%/,,pe%sW%comb_ft.tif
+,,6,Peanuts,Sunday_Comics/Peanuts_Sunday/,pe%symd%comb_hs_Vacation.tif,Sunday Color,/%dS%/,,pe%sW%comb_hs.tif
+,,6,Peanuts,Sunday_Comics/Peanuts_Sunday/,pe%symd%comb_lv_Vacation.tif,Sunday Color,/%dS%/,,pe%sW%comb_lv.tif
+,,6,Peanuts,Sunday_Comics/Peanuts_Sunday/,pe%symd%comb_qs.pdf,Sunday Color,/%dS%/,,pe%sW%comb_qs.pdf
+,,6,Peanuts,Sunday_Comics/Peanuts_Sunday/,pe%symd%comb_qs_Vacation.tif,Sunday Color,/%dS%/,,pe%sW%comb_qs.tif
+,,6,Peanuts,Sunday_Comics/Peanuts_Sunday/,pe%symd%comb_sv_Vacation.tif,Sunday Color,/%dS%/,,pe%sW%comb_sv.tif
+,,6,Peanuts,Sunday_Comics/Peanuts_Sunday/,pe%symd%comb_ts.pdf,Sunday Color,/%dS%/,,pe%sW%comb_ts.pdf
+,,6,Peanuts,Sunday_Comics/Peanuts_Sunday/,pe%symd%comb_ts_Vacation.tif,Sunday Color,/%dS%/,,pe%sW%comb_ts.tif
+,,6,Peanuts,Sunday_Comics/Peanuts_Sunday/,pe%symd%ftc_Vacation.tif,Sunday Color,/%dS%/,,pe%sW%ftc.tif
+,,6,Peanuts,Sunday_Comics/Peanuts_Sunday/,pe%symd%ftl_Vacation.tif,Sunday Color,/%dS%/,,pe%sW%ftl.tif
+,,6,Peanuts,Sunday_Comics/Peanuts_Sunday/,pe%symd%hsc_Vacation.tif,Sunday Color,/%dS%/,,pe%sW%hsc.tif
+,,6,Peanuts,Sunday_Comics/Peanuts_Sunday/,pe%symd%hsl_Vacation.tif,Sunday Color,/%dS%/,,pe%sW%hsl.tif
+,,6,Peanuts,Sunday_Comics/Peanuts_Sunday/,pe%symd%lvc_Vacation.tif,Sunday Color,/%dS%/,,pe%sW%lvc.tif
+,,6,Peanuts,Sunday_Comics/Peanuts_Sunday/,pe%symd%lvl_Vacation.tif,Sunday Color,/%dS%/,,pe%sW%lvl.tif
+,,6,Peanuts,Sunday_Comics/Peanuts_Sunday/,pe%symd%qsc_Vacation.tif,Sunday Color,/%dS%/,,pe%sW%qsc.tif
+,,6,Peanuts,Sunday_Comics/Peanuts_Sunday/,pe%symd%qsl_Vacation.tif,Sunday Color,/%dS%/,,pe%sW%qsl.tif
+,,6,Peanuts,Sunday_Comics/Peanuts_Sunday/,pe%symd%svc_Vacation.tif,Sunday Color,/%dS%/,,pe%sW%svc.tif
+,,6,Peanuts,Sunday_Comics/Peanuts_Sunday/,pe%symd%svl_Vacation.tif,Sunday Color,/%dS%/,,pe%sW%svl.tif
+,,6,Peanuts,Sunday_Comics/Peanuts_Sunday/,pe%symd%tsc_Vacation.tif,Sunday Color,/%dS%/,,pe%sW%tsc.tif
+,,6,Peanuts,Sunday_Comics/Peanuts_Sunday/,pe%symd%tsl_Vacation.tif,Sunday Color,/%dS%/,,pe%sW%tsl.tif
+,,6,Peanuts,Sunday_Comics/Phoebe_Sundays/,hev%symd%comb_qs_Vacation.tif,Sunday Color,/%dS%/,,hev%sW%comb_qs.tif
+,,6,Peanuts,Sunday_Comics/Phoebe_Sundays/,hev%symd%comb_ts_Vacation.tif,Sunday Color,/%dS%/,,hev%sW%comb_ts.tif
+,,6,Peanuts,Sunday_Comics/Phoebe_Sundays/,hev%symd%qsc_Vacation.tif,Sunday Color,/%dS%/,,hev%sW%qsc.tif
+,,6,Peanuts,Sunday_Comics/Phoebe_Sundays/,hev%symd%qsl_Vacation.tif,Sunday Color,/%dS%/,,hev%sW%qsl.tif
+,,6,Peanuts,Sunday_Comics/Phoebe_Sundays/,hev%symd%tsc_Vacation.tif,Sunday Color,/%dS%/,,hev%sW%tsc.tif
+,,6,Peanuts,Sunday_Comics/Phoebe_Sundays/,hev%symd%tsl_Vacation.tif,Sunday Color,/%dS%/,,hev%sW%tsl.tif
+,,6,Pooch Cafe,Sunday_Comics/Pooch_Cafe_Sunday/,poc%symd%comb_qs_Vacation.tif,Sunday Color,/%dS%/,,poo%sW%qscmyk.tif
+,,6,Pooch Cafe,Sunday_Comics/Pooch_Cafe_Sunday/,poc%symd%comb_ts_Vacation.tif,Sunday Color,/%dS%/,,poo%sW%tscmyk.tif
+,,6,Pooch Cafe,Sunday_Comics/Pooch_Cafe_Sunday/,poc%symd%qsc_Vacation.tif,Sunday Color,/%dS%/,,poo%sW%qsc.tif
+,,6,Pooch Cafe,Sunday_Comics/Pooch_Cafe_Sunday/,poc%symd%qsl_Vacation.tif,Sunday Color,/%dS%/,,poo%sW%qsl.tif
+,,6,Pooch Cafe,Sunday_Comics/Pooch_Cafe_Sunday/,poc%symd%tsc_Vacation.tif,Sunday Color,/%dS%/,,poo%sW%tsc.tif
+,,6,Pooch Cafe,Sunday_Comics/Pooch_Cafe_Sunday/,poc%symd%tsl_Vacation.tif,Sunday Color,/%dS%/,,poo%sW%tsl.tif
+,,6,Real Life,Sunday_Comics/Real_Life_Sunday/,rl%symd%comb_qs_Vacation.tif,Sunday Color,/%dS%/,,rlf%sW%qscmyk.tif
+,,6,Real Life,Sunday_Comics/Real_Life_Sunday/,rl%symd%comb_ts_Vacation.tif,Sunday Color,/%dS%/,,rlf%sW%tscmyk.tif
+,,6,Real Life,Sunday_Comics/Real_Life_Sunday/,rl%symd%qsc_Vacation.tif,Sunday Color,/%dS%/,,rlf%sW%qsc.tif
+,,6,Real Life,Sunday_Comics/Real_Life_Sunday/,rl%symd%qsl_Vacation.tif,Sunday Color,/%dS%/,,rlf%sW%qsl.tif
+,,6,Real Life,Sunday_Comics/Real_Life_Sunday/,rl%symd%tsc_Vacation.tif,Sunday Color,/%dS%/,,rlf%sW%tsc.tif
+,,6,Real Life,Sunday_Comics/Real_Life_Sunday/,rl%symd%tsl_Vacation.tif,Sunday Color,/%dS%/,,rlf%sW%tsl.tif
+,,6,Red and Rover,Sunday_Comics/Red_And_Rover_Sunday/,rar%symd%comb_ht_Vacation.tif,Sunday Color,/%dS%/,,rar%sW%comb_ht.tif
+,,6,Red and Rover,Sunday_Comics/Red_And_Rover_Sunday/,rar%symd%comb_qs_Vacation.tif,Sunday Color,/%dS%/,,rar%sW%comb_qs.tif
+,,6,Red and Rover,Sunday_Comics/Red_And_Rover_Sunday/,rar%symd%comb_ts_Vacation.tif,Sunday Color,/%dS%/,,rar%sW%comb_ts.tif
+,,6,Red and Rover,Sunday_Comics/Red_And_Rover_Sunday/,rar%symd%htc_Vacation.tif,Sunday Color,/%dS%/,,rar%sW%htc.tif
+,,6,Red and Rover,Sunday_Comics/Red_And_Rover_Sunday/,rar%symd%htk_Vacation.tif,Sunday Color,/%dS%/,,rar%sW%htk.tif
+,,6,Red and Rover,Sunday_Comics/Red_And_Rover_Sunday/,rar%symd%htl_Vacation.tif,Sunday Color,/%dS%/,,rar%sW%htl.tif
+,,6,Red and Rover,Sunday_Comics/Red_And_Rover_Sunday/,rar%symd%qsc_Vacation.tif,Sunday Color,/%dS%/,,rar%sW%qsc.tif
+,,6,Red and Rover,Sunday_Comics/Red_And_Rover_Sunday/,rar%symd%qsl_Vacation.tif,Sunday Color,/%dS%/,,rar%sW%qsl.tif
+,,6,Red and Rover,Sunday_Comics/Red_And_Rover_Sunday/,rar%symd%tsc_Vacation.tif,Sunday Color,/%dS%/,,rar%sW%tsc.tif
+,,6,Red and Rover,Sunday_Comics/Red_And_Rover_Sunday/,rar%symd%tsl_Vacation.tif,Sunday Color,/%dS%/,,rar%sW%tsl.tif
+,,6,Stone Soup,Sunday_Comics/Stone_Soup_Sunday/,ss%symd%comb_qs_Vacation.tif,Sunday Color,/%dS%/,,ss%sW%comb_qs.tif
+,,6,Stone Soup,Sunday_Comics/Stone_Soup_Sunday/,ss%symd%comb_ts_Vacation.tif,Sunday Color,/%dS%/,,ss%sW%comb_ts.tif
+,,6,Stone Soup,Sunday_Comics/Stone_Soup_Sunday/,ss%symd%qsc_Vacation.tif,Sunday Color,/%dS%/,,ss%sW%qsc.tif
+,,6,Stone Soup,Sunday_Comics/Stone_Soup_Sunday/,ss%symd%qsl_Vacation.tif,Sunday Color,/%dS%/,,ss%sW%qsl.tif
+,,6,Stone Soup,Sunday_Comics/Stone_Soup_Sunday/,ss%symd%tsc_Vacation.tif,Sunday Color,/%dS%/,,ss%sW%tsc.tif
+,,6,Stone Soup,Sunday_Comics/Stone_Soup_Sunday/,ss%symd%tsl_Vacation.tif,Sunday Color,/%dS%/,,ss%sW%tsl.tif
+,,6,Tank McNamara,Sunday_Comics/Tank_McNamara_Sundays/,tm%symd%comb_qs_Vacation.tif,Sunday Color,/%dS%/,,tnk%sW%qscmyk.tif
+,,6,Tank McNamara,Sunday_Comics/Tank_McNamara_Sundays/,tm%symd%comb_ts_Vacation.tif,Sunday Color,/%dS%/,,tnk%sW%tscmyk.tif
+,,6,Tank McNamara,Sunday_Comics/Tank_McNamara_Sundays/,tm%symd%qsc_Vacation.tif,Sunday Color,/%dS%/,,tnk%sW%qsc.tif
+,,6,Tank McNamara,Sunday_Comics/Tank_McNamara_Sundays/,tm%symd%qsl_Vacation.tif,Sunday Color,/%dS%/,,tnk%sW%qsl.tif
+,,6,Tank McNamara,Sunday_Comics/Tank_McNamara_Sundays/,tm%symd%tsc_Vacation.tif,Sunday Color,/%dS%/,,tnk%sW%tsc.tif
+,,6,Tank McNamara,Sunday_Comics/Tank_McNamara_Sundays/,tm%symd%tsl_Vacation.tif,Sunday Color,/%dS%/,,tnk%sW%tsl.tif
+,,6,That a Baby,Sunday_Comics/Thatababy_Sundays/,tab%symd%comb_qs_Vacation.tif,Sunday Color,/%dS%/,,tab%sW%comb_qs.tif
+,,6,That a Baby,Sunday_Comics/Thatababy_Sundays/,tab%symd%comb_ts_Vacation.tif,Sunday Color,/%dS%/,,tab%sW%comb_ts.tif
+,,6,That a Baby,Sunday_Comics/Thatababy_Sundays/,tab%symd%qsc_Vacation.tif,Sunday Color,/%dS%/,,tab%sW%qsc.tif
+,,6,That a Baby,Sunday_Comics/Thatababy_Sundays/,tab%symd%qsl_Vacation.tif,Sunday Color,/%dS%/,,tab%sW%qsl.tif
+,,6,That a Baby,Sunday_Comics/Thatababy_Sundays/,tab%symd%tsc_Vacation.tif,Sunday Color,/%dS%/,,tab%sW%tsc.tif
+,,6,That a Baby,Sunday_Comics/Thatababy_Sundays/,tab%symd%tsl_Vacation.tif,Sunday Color,/%dS%/,,tab%sW%tsl.tif
+,,6,Wallace the Brave,Sunday_Comics/Wallace_The_Brave_Sundays/,wtb%symd%comb_qs_Vacation.tif,Sunday Color,/%dS%/,,wtb%sW%comb_qs.tif
+,,6,Wallace the Brave,Sunday_Comics/Wallace_The_Brave_Sundays/,wtb%symd%comb_ts_Vacation.tif,Sunday Color,/%dS%/,,wtb%sW%comb_ts.tif
+,,6,Wallace the Brave,Sunday_Comics/Wallace_The_Brave_Sundays/,wtb%symd%qsc_Vacation.tif,Sunday Color,/%dS%/,,wtb%sW%qsc.tif
+,,6,Wallace the Brave,Sunday_Comics/Wallace_The_Brave_Sundays/,wtb%symd%qsl_Vacation.tif,Sunday Color,/%dS%/,,wtb%sW%qsl.tif
+,,6,Wallace the Brave,Sunday_Comics/Wallace_The_Brave_Sundays/,wtb%symd%tsc_Vacation.tif,Sunday Color,/%dS%/,,wtb%sW%tsc.tif
+,,6,Wallace the Brave,Sunday_Comics/Wallace_The_Brave_Sundays/,wtb%symd%tsl_Vacation.tif,Sunday Color,/%dS%/,,wtb%sW%tsl.tif
+,,6,WuMo,Sunday_Comics/WuMo_Sundays/,wm%symd%comb_qs_Vacation.tif,Sunday Color,/%dS%/,,wm%sW%comb_qs.tif
+,,6,WuMo,Sunday_Comics/WuMo_Sundays/,wm%symd%comb_ts_Vacation.tif,Sunday Color,/%dS%/,,wm%sW%comb_ts.tif
+,,6,WuMo,Sunday_Comics/WuMo_Sundays/,wm%symd%qsc_Vacation.tif,Sunday Color,/%dS%/,,wm%sW%qsc.tif
+,,6,WuMo,Sunday_Comics/WuMo_Sundays/,wm%symd%qsl_Vacation.tif,Sunday Color,/%dS%/,,wm%sW%qsl.tif
+,,6,WuMo,Sunday_Comics/WuMo_Sundays/,wm%symd%tsc_Vacation.tif,Sunday Color,/%dS%/,,wm%sW%tsc.tif
+,,6,WuMo,Sunday_Comics/WuMo_Sundays/,wm%symd%tsl_Vacation.tif,Sunday Color,/%dS%/,,wm%sW%tsl.tif
+,,6,Ziggy,Sunday_Comics/Ziggy_Sundays/,zi%symd%comb_hs_Vacation.tif,Sunday Color,/%dS%/,,zig%sW%hscmyk.tif
+,,6,Ziggy,Sunday_Comics/Ziggy_Sundays/,zi%symd%comb_qs_Vacation.tif,Sunday Color,/%dS%/,,zig%sW%qscmyk.tif
+,,6,Ziggy,Sunday_Comics/Ziggy_Sundays/,zi%symd%comb_ts_Vacation.tif,Sunday Color,/%dS%/,,zig%sW%tscmyk.tif
+,,6,Ziggy,Sunday_Comics/Ziggy_Sundays/,zi%symd%hsc_Vacation.tif,Sunday Color,/%dS%/,,zig%sW%hsc.tif
+,,6,Ziggy,Sunday_Comics/Ziggy_Sundays/,zi%symd%hsl_Vacation.tif,Sunday Color,/%dS%/,,zig%sW%hsl.tif
+,,6,Ziggy,Sunday_Comics/Ziggy_Sundays/,zi%symd%qsc_Vacation.tif,Sunday Color,/%dS%/,,zig%sW%qsc.tif
+,,6,Ziggy,Sunday_Comics/Ziggy_Sundays/,zi%symd%qsl_Vacation.tif,Sunday Color,/%dS%/,,zig%sW%qsl.tif
+,,6,Ziggy,Sunday_Comics/Ziggy_Sundays/,zi%symd%tsc_Vacation.tif,Sunday Color,/%dS%/,,zig%sW%tsc.tif
+,,6,Ziggy,Sunday_Comics/Ziggy_Sundays/,zi%symd%tsl_Vacation.tif,Sunday Color,/%dS%/,,zig%sW%tsl.tif
+,,6,9 Chickweed Lane,UFS_Sunday_Comics/9_Chickweed_Lane_Sunday/,cw%symd%comb_hs_Vacation.tif,Sunday Color,/%dS%/,,cw%sW%comb_hs.tif
+,,6,9 Chickweed Lane,UFS_Sunday_Comics/9_Chickweed_Lane_Sunday/,cw%symd%comb_qs_Vacation.tif,Sunday Color,/%dS%/,,cw%sW%comb_qs.tif
+,,6,9 Chickweed Lane,UFS_Sunday_Comics/9_Chickweed_Lane_Sunday/,cw%symd%comb_ts_Vacation.tif,Sunday Color,/%dS%/,,cw%sW%comb_ts.tif
+,,6,9 Chickweed Lane,UFS_Sunday_Comics/9_Chickweed_Lane_Sunday/,cw%symd%hsc_Vacation.tif,Sunday Color,/%dS%/,,cw%sW%hsc.tif
+,,6,9 Chickweed Lane,UFS_Sunday_Comics/9_Chickweed_Lane_Sunday/,cw%symd%hsl_Vacation.tif,Sunday Color,/%dS%/,,cw%sW%hsl.tif
+,,6,9 Chickweed Lane,UFS_Sunday_Comics/9_Chickweed_Lane_Sunday/,cw%symd%qsc_Vacation.tif,Sunday Color,/%dS%/,,cw%sW%qsc.tif
+,,6,9 Chickweed Lane,UFS_Sunday_Comics/9_Chickweed_Lane_Sunday/,cw%symd%qsl_Vacation.tif,Sunday Color,/%dS%/,,cw%sW%qsl.tif
+,,6,9 Chickweed Lane,UFS_Sunday_Comics/9_Chickweed_Lane_Sunday/,cw%symd%tsc_Vacation.tif,Sunday Color,/%dS%/,,cw%sW%tsc.tif
+,,6,9 Chickweed Lane,UFS_Sunday_Comics/9_Chickweed_Lane_Sunday/,cw%symd%tsl_Vacation.tif,Sunday Color,/%dS%/,,cw%sW%tsl.tif
+,,6,Alley Oop,UFS_Sunday_Comics/Alley_Oop_Sunday/,ao%symd%comb_ft_Vacation.tif,Sunday Color,/%dS%/,,ao%sW%comb_ft.tif
+,,6,Alley Oop,UFS_Sunday_Comics/Alley_Oop_Sunday/,ao%symd%comb_hs_Vacation.tif,Sunday Color,/%dS%/,,ao%sW%comb_hs.tif
+,,6,Alley Oop,UFS_Sunday_Comics/Alley_Oop_Sunday/,ao%symd%comb_qs_Vacation.tif,Sunday Color,/%dS%/,,ao%sW%comb_qs.tif
+,,6,Alley Oop,UFS_Sunday_Comics/Alley_Oop_Sunday/,ao%symd%comb_ts_Vacation.tif,Sunday Color,/%dS%/,,ao%sW%comb_ts.tif
+,,6,Alley Oop,UFS_Sunday_Comics/Alley_Oop_Sunday/,ao%symd%ftc_Vacation.tif,Sunday Color,/%dS%/,,ao%sW%ftc.tif
+,,6,Alley Oop,UFS_Sunday_Comics/Alley_Oop_Sunday/,ao%symd%ftl_Vacation.tif,Sunday Color,/%dS%/,,ao%sW%ftl.tif
+,,6,Alley Oop,UFS_Sunday_Comics/Alley_Oop_Sunday/,ao%symd%hsc_Vacation.tif,Sunday Color,/%dS%/,,ao%sW%hsc.tif
+,,6,Alley Oop,UFS_Sunday_Comics/Alley_Oop_Sunday/,ao%symd%hsl_Vacation.tif,Sunday Color,/%dS%/,,ao%sW%hsl.tif
+,,6,Alley Oop,UFS_Sunday_Comics/Alley_Oop_Sunday/,ao%symd%qsc_Vacation.tif,Sunday Color,/%dS%/,,ao%sW%qsc.tif
+,,6,Alley Oop,UFS_Sunday_Comics/Alley_Oop_Sunday/,ao%symd%qsl_Vacation.tif,Sunday Color,/%dS%/,,ao%sW%qsl.tif
+,,6,Alley Oop,UFS_Sunday_Comics/Alley_Oop_Sunday/,ao%symd%tsc_Vacation.tif,Sunday Color,/%dS%/,,ao%sW%tsc.tif
+,,6,Alley Oop,UFS_Sunday_Comics/Alley_Oop_Sunday/,ao%symd%tsl_Vacation.tif,Sunday Color,/%dS%/,,ao%sW%tsl.tif
+,,6,Arlo and Janis,UFS_Sunday_Comics/Arlo_and_Janis_Sunday/,aj%symd%comb_hs_Vacation.tif,Sunday Color,/%dS%/,,aj%sW%comb_hs.tif
+,,6,Arlo and Janis,UFS_Sunday_Comics/Arlo_and_Janis_Sunday/,aj%symd%comb_qs_Vacation.tif,Sunday Color,/%dS%/,,aj%sW%comb_qs.tif
+,,6,Arlo and Janis,UFS_Sunday_Comics/Arlo_and_Janis_Sunday/,aj%symd%comb_sq_Vacation.tif,Sunday Color,/%dS%/,,aj%sW%comb_sq.tif
+,,6,Arlo and Janis,UFS_Sunday_Comics/Arlo_and_Janis_Sunday/,aj%symd%comb_ts_Vacation.tif,Sunday Color,/%dS%/,,aj%sW%comb_ts.tif
+,,6,Arlo and Janis,UFS_Sunday_Comics/Arlo_and_Janis_Sunday/,aj%symd%hsc_Vacation.tif,Sunday Color,/%dS%/,,aj%sW%hsc.tif
+,,6,Arlo and Janis,UFS_Sunday_Comics/Arlo_and_Janis_Sunday/,aj%symd%hsl_Vacation.tif,Sunday Color,/%dS%/,,aj%sW%hsl.tif
+,,6,Arlo and Janis,UFS_Sunday_Comics/Arlo_and_Janis_Sunday/,aj%symd%tsc_Vacation.tif,Sunday Color,/%dS%/,,aj%sW%tsc.tif
+,,6,Arlo and Janis,UFS_Sunday_Comics/Arlo_and_Janis_Sunday/,aj%symd%tsl_Vacation.tif,Sunday Color,/%dS%/,,aj%sW%tsl.tif
+,,6,Arlo and Janis,UFS_Sunday_Comics/Arlo_and_Janis_Sunday/,aj%symd%sqc_Vacation.tif,Sunday Color,/%dS%/,,aj%sW%sqc.tif
+,,6,Arlo and Janis,UFS_Sunday_Comics/Arlo_and_Janis_Sunday/,aj%symd%sql_Vacation.tif,Sunday Color,/%dS%/,,aj%sW%sql.tif
+,,6,Arlo and Janis,UFS_Sunday_Comics/Arlo_and_Janis_Sunday/,aj%symd%tsc_Vacation.tif,Sunday Color,/%dS%/,,aj%sW%tsc.tif
+,,6,Arlo and Janis,UFS_Sunday_Comics/Arlo_and_Janis_Sunday/,aj%symd%tsl_Vacation.tif,Sunday Color,/%dS%/,,aj%sW%tsl.tif
+,,6,Betty,UFS_Sunday_Comics/Betty_Sunday/,bt%symd%comb_hs_Vacation.tif,Sunday Color,/%dS%/,,bt%sW%comb_hs.tif
+,,6,Betty,UFS_Sunday_Comics/Betty_Sunday/,bt%symd%comb_qs_Vacation.tif,Sunday Color,/%dS%/,,bt%sW%comb_qs.tif
+,,6,Betty,UFS_Sunday_Comics/Betty_Sunday/,bt%symd%comb_ts_Vacation.tif,Sunday Color,/%dS%/,,bt%sW%comb_ts.tif
+,,6,Betty,UFS_Sunday_Comics/Betty_Sunday/,bt%symd%hsc_Vacation.tif,Sunday Color,/%dS%/,,bt%sW%hsc.tif
+,,6,Betty,UFS_Sunday_Comics/Betty_Sunday/,bt%symd%hsl_Vacation.tif,Sunday Color,/%dS%/,,bt%sW%hsl.tif
+,,6,Betty,UFS_Sunday_Comics/Betty_Sunday/,bt%symd%qsc_Vacation.tif,Sunday Color,/%dS%/,,bt%sW%qsc.tif
+,,6,Betty,UFS_Sunday_Comics/Betty_Sunday/,bt%symd%qsl_Vacation.tif,Sunday Color,/%dS%/,,bt%sW%qsl.tif
+,,6,Betty,UFS_Sunday_Comics/Betty_Sunday/,bt%symd%tsc_Vacation.tif,Sunday Color,/%dS%/,,bt%sW%tsc.tif
+,,6,Betty,UFS_Sunday_Comics/Betty_Sunday/,bt%symd%tsl_Vacation.tif,Sunday Color,/%dS%/,,bt%sW%tsl.tif
+,,6,Big Nate,UFS_Sunday_Comics/Big_Nate_Sunday/,bn%symd%comb_hs_Vacation.tif,Sunday Color,/%dS%/,,bn%sW%comb_hs.tif
+,,6,Big Nate,UFS_Sunday_Comics/Big_Nate_Sunday/,bn%symd%comb_qs_Vacation.tif,Sunday Color,/%dS%/,,bn%sW%comb_qs.tif
+,,6,Big Nate,UFS_Sunday_Comics/Big_Nate_Sunday/,bn%symd%comb_ts_Vacation.tif,Sunday Color,/%dS%/,,bn%sW%comb_ts.tif
+,,6,Big Nate,UFS_Sunday_Comics/Big_Nate_Sunday/,bn%symd%hsc_Vacation.tif,Sunday Color,/%dS%/,,bn%sW%hsc.tif
+,,6,Big Nate,UFS_Sunday_Comics/Big_Nate_Sunday/,bn%symd%hsl_Vacation.tif,Sunday Color,/%dS%/,,bn%sW%hsl.tif
+,,6,Big Nate,UFS_Sunday_Comics/Big_Nate_Sunday/,bn%symd%qsc_Vacation.tif,Sunday Color,/%dS%/,,bn%sW%qsc.tif
+,,6,Big Nate,UFS_Sunday_Comics/Big_Nate_Sunday/,bn%symd%qsl_Vacation.tif,Sunday Color,/%dS%/,,bn%sW%qsl.tif
+,,6,Big Nate,UFS_Sunday_Comics/Big_Nate_Sunday/,bn%symd%tsc_Vacation.tif,Sunday Color,/%dS%/,,bn%sW%tsc.tif
+,,6,Big Nate,UFS_Sunday_Comics/Big_Nate_Sunday/,bn%symd%tsl_Vacation.tif,Sunday Color,/%dS%/,,bn%sW%tsl.tif
+,,6,Born Loser,UFS_Sunday_Comics/Born_Loser_Sunday/,bnl%symd%comb_ft_Vacation.tif,Sunday Color,/%dS%/,,bnl%sW%comb_ft.tif
+,,6,Born Loser,UFS_Sunday_Comics/Born_Loser_Sunday/,bnl%symd%comb_hs_Vacation.tif,Sunday Color,/%dS%/,,bnl%sW%comb_hs.tif
+,,6,Born Loser,UFS_Sunday_Comics/Born_Loser_Sunday/,bnl%symd%comb_lv_Vacation.tif,Sunday Color,/%dS%/,,bnl%sW%comb_lv.tif
+,,6,Born Loser,UFS_Sunday_Comics/Born_Loser_Sunday/,bnl%symd%comb_mv_Vacation.tif,Sunday Color,/%dS%/,,bl%sW%comb_mv.tif
+,,6,Born Loser,UFS_Sunday_Comics/Born_Loser_Sunday/,bnl%symd%comb_qs_Vacation.tif,Sunday Color,/%dS%/,,bl%sW%comb_qs.tif
+,,6,Born Loser,UFS_Sunday_Comics/Born_Loser_Sunday/,bnl%symd%comb_sq_Vacation.tif,Sunday Color,/%dS%/,,bl%sW%comb_sq.tif
+,,6,Born Loser,UFS_Sunday_Comics/Born_Loser_Sunday/,bnl%symd%comb_sv_Vacation.tif,Sunday Color,/%dS%/,,bl%sW%comb_sv.tif
+,,6,Born Loser,UFS_Sunday_Comics/Born_Loser_Sunday/,bnl%symd%comb_ts_Vacation.tif,Sunday Color,/%dS%/,,bl%sW%comb_ts.tif
+,,6,Born Loser,UFS_Sunday_Comics/Born_Loser_Sunday/,bnl%symd%ftc_Vacation.tif,Sunday Color,/%dS%/,,bl%sW%ftc.tif
+,,6,Born Loser,UFS_Sunday_Comics/Born_Loser_Sunday/,bnl%symd%ftl_Vacation.tif,Sunday Color,/%dS%/,,bl%sW%ftl.tif
+,,6,Born Loser,UFS_Sunday_Comics/Born_Loser_Sunday/,bnl%symd%hsc_Vacation.tif,Sunday Color,/%dS%/,,bl%sW%hsc.tif
+,,6,Born Loser,UFS_Sunday_Comics/Born_Loser_Sunday/,bnl%symd%hsl_Vacation.tif,Sunday Color,/%dS%/,,bl%sW%hsl.tif
+,,6,Born Loser,UFS_Sunday_Comics/Born_Loser_Sunday/,bnl%symd%lvc_Vacation.tif,Sunday Color,/%dS%/,,bl%sW%lvc.tif
+,,6,Born Loser,UFS_Sunday_Comics/Born_Loser_Sunday/,bnl%symd%lvl_Vacation.tif,Sunday Color,/%dS%/,,bl%sW%lvl.tif
+,,6,Born Loser,UFS_Sunday_Comics/Born_Loser_Sunday/,bnl%symd%mvc_Vacation.tif,Sunday Color,/%dS%/,,bl%sW%mvc.tif
+,,6,Born Loser,UFS_Sunday_Comics/Born_Loser_Sunday/,bnl%symd%mvl_Vacation.tif,Sunday Color,/%dS%/,,bl%sW%mvl.tif
+,,6,Born Loser,UFS_Sunday_Comics/Born_Loser_Sunday/,bnl%symd%qsc_Vacation.tif,Sunday Color,/%dS%/,,bl%sW%qsc.tif
+,,6,Born Loser,UFS_Sunday_Comics/Born_Loser_Sunday/,bnl%symd%qsl_Vacation.tif,Sunday Color,/%dS%/,,bl%sW%qsl.tif
+,,6,Born Loser,UFS_Sunday_Comics/Born_Loser_Sunday/,bnl%symd%sqc_Vacation.tif,Sunday Color,/%dS%/,,bl%sW%sqc.tif
+,,6,Born Loser,UFS_Sunday_Comics/Born_Loser_Sunday/,bnl%symd%sql_Vacation.tif,Sunday Color,/%dS%/,,bl%sW%sql.tif
+,,6,Born Loser,UFS_Sunday_Comics/Born_Loser_Sunday/,bnl%symd%svc_Vacation.tif,Sunday Color,/%dS%/,,bl%sW%svc.tif
+,,6,Born Loser,UFS_Sunday_Comics/Born_Loser_Sunday/,bnl%symd%svl_Vacation.tif,Sunday Color,/%dS%/,,bl%sW%svl.tif
+,,6,Born Loser,UFS_Sunday_Comics/Born_Loser_Sunday/,bnl%symd%tsc_Vacation.tif,Sunday Color,/%dS%/,,bl%sW%tsc.tif
+,,6,Born Loser,UFS_Sunday_Comics/Born_Loser_Sunday/,bnl%symd%tsl_Vacation.tif,Sunday Color,/%dS%/,,bl%sW%tsl.tif
+,,6,Brevity,UFS_Sunday_Comics/Brevity_Sunday/,bv%symd%comb_qs_Vacation.tif,Sunday Color,/%dS%/,,bv%sW%comb_qs.tif
+,,6,Brevity,UFS_Sunday_Comics/Brevity_Sunday/,bv%symd%comb_ts_Vacation.tif,Sunday Color,/%dS%/,,bv%sW%comb_ts.tif
+,,6,Brevity,UFS_Sunday_Comics/Brevity_Sunday/,bv%symd%qsc_Vacation.tif,Sunday Color,/%dS%/,,bv%sW%qsc.tif
+,,6,Brevity,UFS_Sunday_Comics/Brevity_Sunday/,bv%symd%qsl_Vacation.tif,Sunday Color,/%dS%/,,bv%sW%qsl.tif
+,,6,Brevity,UFS_Sunday_Comics/Brevity_Sunday/,bv%symd%tsc_Vacation.tif,Sunday Color,/%dS%/,,bv%sW%tsc.tif
+,,6,Brevity,UFS_Sunday_Comics/Brevity_Sunday/,bv%symd%tsl_Vacation.tif,Sunday Color,/%dS%/,,bv%sW%tsl.tif
+,,6,Buckets,UFS_Sunday_Comics/Buckets_Sunday/,bu%symd%comb_qs_Vacation.tif,Sunday Color,/%dS%/,,bu%sW%comb_qs.tif
+,,6,Buckets,UFS_Sunday_Comics/Buckets_Sunday/,bu%symd%comb_ts_Vacation.tif,Sunday Color,/%dS%/,,bu%sW%comb_ts.tif
+,,6,Buckets,UFS_Sunday_Comics/Buckets_Sunday/,bu%symd%qsc_Vacation.tif,Sunday Color,/%dS%/,,bu%sW%qsc.tif
+,,6,Buckets,UFS_Sunday_Comics/Buckets_Sunday/,bu%symd%qsl_Vacation.tif,Sunday Color,/%dS%/,,bu%sW%qsl.tif
+,,6,Buckets,UFS_Sunday_Comics/Buckets_Sunday/,bu%symd%tsc_Vacation.tif,Sunday Color,/%dS%/,,bu%sW%tsc.tif
+,,6,Buckets,UFS_Sunday_Comics/Buckets_Sunday/,bu%symd%tsl_Vacation.tif,Sunday Color,/%dS%/,,bu%sW%tsl.tif
+,,6,Drabble,UFS_Sunday_Comics/Drabble_Sunday/,dr%symd%comb_ht_Vacation.tif,Sunday Color,/%dS%/,,dr%sW%comb_ht.tif
+,,6,Drabble,UFS_Sunday_Comics/Drabble_Sunday/,dr%symd%comb_qs_Vacation.tif,Sunday Color,/%dS%/,,dr%sW%comb_qs.tif
+,,6,Drabble,UFS_Sunday_Comics/Drabble_Sunday/,dr%symd%comb_ts_Vacation.tif,Sunday Color,/%dS%/,,dr%sW%comb_ts.tif
+,,6,Drabble,UFS_Sunday_Comics/Drabble_Sunday/,dr%symd%htc_Vacation.tif,Sunday Color,/%dS%/,,dr%sW%htc.tif
+,,6,Drabble,UFS_Sunday_Comics/Drabble_Sunday/,dr%symd%htl_Vacation.tif,Sunday Color,/%dS%/,,dr%sW%htl.tif
+,,6,Drabble,UFS_Sunday_Comics/Drabble_Sunday/,dr%symd%qsc_Vacation.tif,Sunday Color,/%dS%/,,dr%sW%qsc.tif
+,,6,Drabble,UFS_Sunday_Comics/Drabble_Sunday/,dr%symd%qsl_Vacation.tif,Sunday Color,/%dS%/,,dr%sW%qsl.tif
+,,6,Drabble,UFS_Sunday_Comics/Drabble_Sunday/,dr%symd%tsc_Vacation.tif,Sunday Color,/%dS%/,,dr%sW%tsc.tif
+,,6,Drabble,UFS_Sunday_Comics/Drabble_Sunday/,dr%symd%tsl_Vacation.tif,Sunday Color,/%dS%/,,dr%sW%tsl.tif
+,,6,F Minus,UFS_Sunday_Comics/Fminus_Sunday/,fm%symd%comb_qs_Vacation.tif,Sunday Color,/%dS%/,,fm%sW%qsccmyk.tif
+,,6,F Minus,UFS_Sunday_Comics/Fminus_Sunday/,fm%symd%comb_ts_Vacation.tif,Sunday Color,/%dS%/,,fm%sW%tsccmyk.tif
+,,6,F Minus,UFS_Sunday_Comics/Fminus_Sunday/,fm%symd%qsc_Vacation.tif,Sunday Color,/%dS%/,,fm%sW%qsc.tif
+,,6,F Minus,UFS_Sunday_Comics/Fminus_Sunday/,fm%symd%qsl_Vacation.tif,Sunday Color,/%dS%/,,fm%sW%qsl.tif
+,,6,F Minus,UFS_Sunday_Comics/Fminus_Sunday/,fm%symd%tsc_Vacation.tif,Sunday Color,/%dS%/,,fm%sW%tsc.tif
+,,6,F Minus,UFS_Sunday_Comics/Fminus_Sunday/,fm%symd%tsl_Vacation.tif,Sunday Color,/%dS%/,,fm%sW%tsl.tif
+,,6,Frank n Ernest,UFS_Sunday_Comics/Frank_n_Ernest_Sunday/,fk%symd%comb_ht_Vacation.tif,Sunday Color,/%dS%/,,fk%sW%comb_ht.tif
+,,6,Frank n Ernest,UFS_Sunday_Comics/Frank_n_Ernest_Sunday/,fk%symd%comb_qs_Vacation.tif,Sunday Color,/%dS%/,,fk%sW%comb_qs.tif
+,,6,Frank n Ernest,UFS_Sunday_Comics/Frank_n_Ernest_Sunday/,fk%symd%comb_ts_Vacation.tif,Sunday Color,/%dS%/,,fk%sW%comb_ts.tif
+,,6,Frank n Ernest,UFS_Sunday_Comics/Frank_n_Ernest_Sunday/,fk%symd%htc_Vacation.tif,Sunday Color,/%dS%/,,fk%sW%htc.tif
+,,6,Frank n Ernest,UFS_Sunday_Comics/Frank_n_Ernest_Sunday/,fk%symd%htl_Vacation.tif,Sunday Color,/%dS%/,,fk%sW%htl.tif
+,,6,Frank n Ernest,UFS_Sunday_Comics/Frank_n_Ernest_Sunday/,fk%symd%qsc_Vacation.tif,Sunday Color,/%dS%/,,fk%sW%qsc.tif
+,,6,Frank n Ernest,UFS_Sunday_Comics/Frank_n_Ernest_Sunday/,fk%symd%qsl_Vacation.tif,Sunday Color,/%dS%/,,fk%sW%qsl.tif
+,,6,Frank n Ernest,UFS_Sunday_Comics/Frank_n_Ernest_Sunday/,fk%symd%tsc_Vacation.tif,Sunday Color,/%dS%/,,fk%sW%tsc.tif
+,,6,Frank n Ernest,UFS_Sunday_Comics/Frank_n_Ernest_Sunday/,fk%symd%tsl_Vacation.tif,Sunday Color,/%dS%/,,fk%sW%tsl.tif
+,,6,Frazz,UFS_Sunday_Comics/Frazz_Sunday/,fz%symd%comb_qs_Vacation.tif,Sunday Color,/%dS%/,,fz%sW%comb_qs.tif
+,,6,Frazz,UFS_Sunday_Comics/Frazz_Sunday/,fz%symd%comb_ts_Vacation.tif,Sunday Color,/%dS%/,,fz%sW%comb_ts.tif
+,,6,Frazz,UFS_Sunday_Comics/Frazz_Sunday/,fz%symd%qsc_Vacation.tif,Sunday Color,/%dS%/,,fz%sW%qsc.tif
+,,6,Frazz,UFS_Sunday_Comics/Frazz_Sunday/,fz%symd%qsl_Vacation.tif,Sunday Color,/%dS%/,,fz%sW%qsl.tif
+,,6,Frazz,UFS_Sunday_Comics/Frazz_Sunday/,fz%symd%tsc_Vacation.tif,Sunday Color,/%dS%/,,fz%sW%tsc.tif
+,,6,Frazz,UFS_Sunday_Comics/Frazz_Sunday/,fz%symd%tsl_Vacation.tif,Sunday Color,/%dS%/,,fz%sW%tsl.tif
+,,6,Get Fuzzy,UFS_Sunday_Comics/Get_Fuzzy__Sunday/,gf%symd%comb_qs_Vacation.tif,Sunday Color,/%dS%/,,gf%sW%qscmyk.tif
+,,6,Get Fuzzy,UFS_Sunday_Comics/Get_Fuzzy__Sunday/,gf%symd%comb_ts_Vacation.tif,Sunday Color,/%dS%/,,gf%sW%tscmyk.tif
+,,6,Get Fuzzy,UFS_Sunday_Comics/Get_Fuzzy__Sunday/,gf%symd%qsc_Vacation.tif,Sunday Color,/%dS%/,,gf%sW%qsc.tif
+,,6,Get Fuzzy,UFS_Sunday_Comics/Get_Fuzzy__Sunday/,gf%symd%qsl_Vacation.tif,Sunday Color,/%dS%/,,gf%sW%qsl.tif
+,,6,Get Fuzzy,UFS_Sunday_Comics/Get_Fuzzy__Sunday/,gf%symd%tsc_Vacation.tif,Sunday Color,/%dS%/,,gf%sW%tsc.tif
+,,6,Get Fuzzy,UFS_Sunday_Comics/Get_Fuzzy__Sunday/,gf%symd%tsl_Vacation.tif,Sunday Color,/%dS%/,,gf%sW%tsl.tif
+,,6,Grand Avenue,UFS_Sunday_Comics/Grand_Avenue_Sunday/,gr%symd%comb_qs_Vacation.tif,Sunday Color,/%dS%/,,gr%sW%comb_qs.tif
+,,6,Grand Avenue,UFS_Sunday_Comics/Grand_Avenue_Sunday/,gr%symd%comb_ts_Vacation.tif,Sunday Color,/%dS%/,,gr%sW%comb_ts.tif
+,,6,Grand Avenue,UFS_Sunday_Comics/Grand_Avenue_Sunday/,gr%symd%qsc_Vacation.tif,Sunday Color,/%dS%/,,gr%sW%qsc.tif
+,,6,Grand Avenue,UFS_Sunday_Comics/Grand_Avenue_Sunday/,gr%symd%qsl_Vacation.tif,Sunday Color,/%dS%/,,gr%sW%qsl.tif
+,,6,Grand Avenue,UFS_Sunday_Comics/Grand_Avenue_Sunday/,gr%symd%tsc_Vacation.tif,Sunday Color,/%dS%/,,gr%sW%tsc.tif
+,,6,Grand Avenue,UFS_Sunday_Comics/Grand_Avenue_Sunday/,gr%symd%tsl_Vacation.tif,Sunday Color,/%dS%/,,gr%sW%tsl.tif
+,,6,Herman,UFS_Sunday_Comics/Herman_Sunday/,hm%symd%comb_hs_Vacation.tif,Sunday Color,/%dS%/,,hm%sW%comb_hs.tif
+,,6,Herman,UFS_Sunday_Comics/Herman_Sunday/,hm%symd%comb_qs_Vacation.tif,Sunday Color,/%dS%/,,hm%sW%comb_qs.tif
+,,6,Herman,UFS_Sunday_Comics/Herman_Sunday/,hm%symd%comb_ts_Vacation.tif,Sunday Color,/%dS%/,,hm%sW%comb_ts.tif
+,,6,Herman,UFS_Sunday_Comics/Herman_Sunday/,hm%symd%hsc_Vacation.tif,Sunday Color,/%dS%/,,hm%sW%hsc.tif
+,,6,Herman,UFS_Sunday_Comics/Herman_Sunday/,hm%symd%hsl_Vacation.tif,Sunday Color,/%dS%/,,hm%sW%hsl.tif
+,,6,Herman,UFS_Sunday_Comics/Herman_Sunday/,hm%symd%qsc_Vacation.tif,Sunday Color,/%dS%/,,hm%sW%qsc.tif
+,,6,Herman,UFS_Sunday_Comics/Herman_Sunday/,hm%symd%qsl_Vacation.tif,Sunday Color,/%dS%/,,hm%sW%qsl.tif
+,,6,Herman,UFS_Sunday_Comics/Herman_Sunday/,hm%symd%tsc_Vacation.tif,Sunday Color,/%dS%/,,hm%sW%tsc.tif
+,,6,Herman,UFS_Sunday_Comics/Herman_Sunday/,hm%symd%tsl_Vacation.tif,Sunday Color,/%dS%/,,hm%sW%tsl.tif
+,,6,Jump Start,UFS_Sunday_Comics/Jump_Start_Sunday/,jt%symd%comb_hs_Vacation.tif,Sunday Color,/%dS%/,,js%sW%hscmyk.tif
+,,6,Jump Start,UFS_Sunday_Comics/Jump_Start_Sunday/,jt%symd%comb_qs_Vacation.tif,Sunday Color,/%dS%/,,js%sW%qscmyk.tif
+,,6,Jump Start,UFS_Sunday_Comics/Jump_Start_Sunday/,jt%symd%comb_sq_Vacation.tif,Sunday Color,/%dS%/,,js%sW%sqcmyk.tif
+,,6,Jump Start,UFS_Sunday_Comics/Jump_Start_Sunday/,jt%symd%comb_ts_Vacation.tif,Sunday Color,/%dS%/,,js%sW%tscmyk.tif
+,,6,Jump Start,UFS_Sunday_Comics/Jump_Start_Sunday/,jt%symd%hsc_Vacation.tif,Sunday Color,/%dS%/,,js%sW%hsc.tif
+,,6,Jump Start,UFS_Sunday_Comics/Jump_Start_Sunday/,jt%symd%hsl_Vacation.tif,Sunday Color,/%dS%/,,js%sW%hsl.tif
+,,6,Jump Start,UFS_Sunday_Comics/Jump_Start_Sunday/,jt%symd%qsc_Vacation.tif,Sunday Color,/%dS%/,,js%sW%qsc.tif
+,,6,Jump Start,UFS_Sunday_Comics/Jump_Start_Sunday/,jt%symd%qsl_Vacation.tif,Sunday Color,/%dS%/,,js%sW%qsl.tif
+,,6,Jump Start,UFS_Sunday_Comics/Jump_Start_Sunday/,jt%symd%sqc_Vacation.tif,Sunday Color,/%dS%/,,js%sW%sqc.tif
+,,6,Jump Start,UFS_Sunday_Comics/Jump_Start_Sunday/,jt%symd%sql_Vacation.tif,Sunday Color,/%dS%/,,js%sW%sql.tif
+,,6,Jump Start,UFS_Sunday_Comics/Jump_Start_Sunday/,jt%symd%tsc_Vacation.tif,Sunday Color,/%dS%/,,js%sW%tsc.tif
+,,6,Jump Start,UFS_Sunday_Comics/Jump_Start_Sunday/,jt%symd%tsl_Vacation.tif,Sunday Color,/%dS%/,,js%sW%tsl.tif
+,,6,Kid City,UFS_Sunday_Comics/Kid_City_Sunday/,ki%symd%comb_ts_Vacation.tif,Sunday Color,/%dS%/,,ki%sW%comb_ts.tif
+,,6,Kid City,UFS_Sunday_Comics/Kid_City_Sunday/,ki%symd%tsc_Vacation.tif,Sunday Color,/%dS%/,,ki%sW%tsc.tif
+,,6,Kid City,UFS_Sunday_Comics/Kid_City_Sunday/,ki%symd%tsl_Vacation.tif,Sunday Color,/%dS%/,,ki%sW%tsl.tif
+,,6,Kiight Life,UFS_Sunday_Comics/Knight_Life_Sunday/,kl%symd%comb_qs_Vacation.tif,Sunday Color,/%dS%/,,kl%sW%comb_qs.tif
+,,6,Kiight Life,UFS_Sunday_Comics/Knight_Life_Sunday/,kl%symd%comb_ts_Vacation.tif,Sunday Color,/%dS%/,,kl%sW%comb_ts.tif
+,,6,Kiight Life,UFS_Sunday_Comics/Knight_Life_Sunday/,kl%symd%qsc_Vacation.tif,Sunday Color,/%dS%/,,kl%sW%qsc.tif
+,,6,Kiight Life,UFS_Sunday_Comics/Knight_Life_Sunday/,kl%symd%qsl_Vacation.tif,Sunday Color,/%dS%/,,kl%sW%qsl.tif
+,,6,Kiight Life,UFS_Sunday_Comics/Knight_Life_Sunday/,kl%symd%tsc_Vacation.tif,Sunday Color,/%dS%/,,kl%sW%tsc.tif
+,,6,Kiight Life,UFS_Sunday_Comics/Knight_Life_Sunday/,kl%symd%tsl_Vacation.tif,Sunday Color,/%dS%/,,kl%sW%tsl.tif
+,,6,Lola,UFS_Sunday_Comics/Lola_Sunday/,ll%symd%comb_qs_Vacation.tif,Sunday Color,/%dS%/,,ll%sW%comb_qs.tif
+,,6,Lola,UFS_Sunday_Comics/Lola_Sunday/,ll%symd%comb_ts_Vacation.tif,Sunday Color,/%dS%/,,ll%sW%comb_ts.tif
+,,6,Lola,UFS_Sunday_Comics/Lola_Sunday/,ll%symd%qsc_Vacation.tif,Sunday Color,/%dS%/,,ll%sW%qsc.tif
+,,6,Lola,UFS_Sunday_Comics/Lola_Sunday/,ll%symd%qsl_Vacation.tif,Sunday Color,/%dS%/,,ll%sW%qsl.tif
+,,6,Lola,UFS_Sunday_Comics/Lola_Sunday/,ll%symd%tsc_Vacation.tif,Sunday Color,/%dS%/,,ll%sW%tsc.tif
+,,6,Lola,UFS_Sunday_Comics/Lola_Sunday/,ll%symd%tsl_Vacation.tif,Sunday Color,/%dS%/,,ll%sW%tsl.tif
+,,6,Luann,UFS_Sunday_Comics/Luann_Sunday/,lu%symd%comb_qs_Vacation.tif,Sunday Color,/%dS%/,,lu%sW%comb_qs.tif
+,,6,Luann,UFS_Sunday_Comics/Luann_Sunday/,lu%symd%comb_ts_Vacation.tif,Sunday Color,/%dS%/,,lu%sW%comb_ts.tif
+,,6,Luann,UFS_Sunday_Comics/Luann_Sunday/,lu%symd%qsc_Vacation.tif,Sunday Color,/%dS%/,,lu%sW%qsc.tif
+,,6,Luann,UFS_Sunday_Comics/Luann_Sunday/,lu%symd%qsl_Vacation.tif,Sunday Color,/%dS%/,,lu%sW%qsl.tif
+,,6,Luann,UFS_Sunday_Comics/Luann_Sunday/,lu%symd%tsc_Vacation.tif,Sunday Color,/%dS%/,,lu%sW%tsc.tif
+,,6,Luann,UFS_Sunday_Comics/Luann_Sunday/,lu%symd%tsl_Vacation.tif,Sunday Color,/%dS%/,,lu%sW%tsl.tif
+,,6,Marmaduke,UFS_Sunday_Comics/Marmaduke_Sunday/,ma%symd%comb_ft_Vacation.tif,Sunday Color,/%dS%/,,ma%sW%comb_ft.tif
+,,6,Marmaduke,UFS_Sunday_Comics/Marmaduke_Sunday/,ma%symd%comb_hs_Vacation.tif,Sunday Color,/%dS%/,,ma%sW%comb_hs.tif
+,,6,Marmaduke,UFS_Sunday_Comics/Marmaduke_Sunday/,ma%symd%comb_qs_Vacation.tif,Sunday Color,/%dS%/,,ma%sW%comb_qs.tif
+,,6,Marmaduke,UFS_Sunday_Comics/Marmaduke_Sunday/,ma%symd%comb_sq_Vacation.tif,Sunday Color,/%dS%/,,ma%sW%comb_sq.tif
+,,6,Marmaduke,UFS_Sunday_Comics/Marmaduke_Sunday/,ma%symd%comb_sv_Vacation.tif,Sunday Color,/%dS%/,,ma%sW%comb_sv.tif
+,,6,Marmaduke,UFS_Sunday_Comics/Marmaduke_Sunday/,ma%symd%comb_ts_Vacation.tif,Sunday Color,/%dS%/,,ma%sW%comb_ts.tif
+,,6,Marmaduke,UFS_Sunday_Comics/Marmaduke_Sunday/,ma%symd%ftc_Vacation.tif,Sunday Color,/%dS%/,,ma%sW%ftc.tif
+,,6,Marmaduke,UFS_Sunday_Comics/Marmaduke_Sunday/,ma%symd%ftl_Vacation.tif,Sunday Color,/%dS%/,,ma%sW%ftl.tif
+,,6,Marmaduke,UFS_Sunday_Comics/Marmaduke_Sunday/,ma%symd%hsc_Vacation.tif,Sunday Color,/%dS%/,,ma%sW%hsc.tif
+,,6,Marmaduke,UFS_Sunday_Comics/Marmaduke_Sunday/,ma%symd%hsl_Vacation.tif,Sunday Color,/%dS%/,,ma%sW%hsl.tif
+,,6,Marmaduke,UFS_Sunday_Comics/Marmaduke_Sunday/,ma%symd%qsc_Vacation.tif,Sunday Color,/%dS%/,,ma%sW%qsc.tif
+,,6,Marmaduke,UFS_Sunday_Comics/Marmaduke_Sunday/,ma%symd%qsl_Vacation.tif,Sunday Color,/%dS%/,,ma%sW%qsl.tif
+,,6,Marmaduke,UFS_Sunday_Comics/Marmaduke_Sunday/,ma%symd%sqc_Vacation.tif,Sunday Color,/%dS%/,,ma%sW%sqc.tif
+,,6,Marmaduke,UFS_Sunday_Comics/Marmaduke_Sunday/,ma%symd%sql_Vacation.tif,Sunday Color,/%dS%/,,ma%sW%sql.tif
+,,6,Marmaduke,UFS_Sunday_Comics/Marmaduke_Sunday/,ma%symd%svc_Vacation.tif,Sunday Color,/%dS%/,,ma%sW%svc.tif
+,,6,Marmaduke,UFS_Sunday_Comics/Marmaduke_Sunday/,ma%symd%svl_Vacation.tif,Sunday Color,/%dS%/,,ma%sW%svl.tif
+,,6,Marmaduke,UFS_Sunday_Comics/Marmaduke_Sunday/,ma%symd%tsc_Vacation.tif,Sunday Color,/%dS%/,,ma%sW%tsc.tif
+,,6,Marmaduke,UFS_Sunday_Comics/Marmaduke_Sunday/,ma%symd%tsl_Vacation.tif,Sunday Color,/%dS%/,,ma%sW%tsl.tif
+,,6,Monty,UFS_Sunday_Comics/Monty_Sunday/,mt%symd%combo_ft_Vacation.tif,Sunday Color,/%dS%/,,mt%sW%ftcmyk.tif
+,,6,Monty,UFS_Sunday_Comics/Monty_Sunday/,mt%symd%comb_hs_Vacation.tif,Sunday Color,/%dS%/,,mt%sW%hscmyk.tif
+,,6,Monty,UFS_Sunday_Comics/Monty_Sunday/,mt%symd%comb_qs_Vacation.tif,Sunday Color,/%dS%/,,mt%sW%qscmyk.tif
+,,6,Monty,UFS_Sunday_Comics/Monty_Sunday/,mt%symd%comb_sq_Vacation.tif,Sunday Color,/%dS%/,,mt%sW%sqcmyk.tif
+,,6,Monty,UFS_Sunday_Comics/Monty_Sunday/,mt%symd%comb_ts_Vacation.tif,Sunday Color,/%dS%/,,mt%sW%tscmyk.tif
+,,6,Monty,UFS_Sunday_Comics/Monty_Sunday/,mt%symd%ftc_Vacation.tif,Sunday Color,/%dS%/,,mt%sW%ftc.tif
+,,6,Monty,UFS_Sunday_Comics/Monty_Sunday/,mt%symd%ftl_Vacation.tif,Sunday Color,/%dS%/,,mt%sW%ftl.tif
+,,6,Monty,UFS_Sunday_Comics/Monty_Sunday/,mt%symd%hsc_Vacation.tif,Sunday Color,/%dS%/,,mt%sW%hsc.tif
+,,6,Monty,UFS_Sunday_Comics/Monty_Sunday/,mt%symd%hsl_Vacation.tif,Sunday Color,/%dS%/,,mt%sW%hsl.tif
+,,6,Monty,UFS_Sunday_Comics/Monty_Sunday/,mt%symd%comb_ts_Vacation.tif,Sunday Color,/%dS%/,,mt%sW%tscmyk.tif
+,,6,Monty,UFS_Sunday_Comics/Monty_Sunday/,mt%symd%qsl_Vacation.tif,Sunday Color,/%dS%/,,mt%sW%qsl.tif
+,,6,Monty,UFS_Sunday_Comics/Monty_Sunday/,mt%symd%sqc_Vacation.tif,Sunday Color,/%dS%/,,mt%sW%sqc.tif
+,,6,Monty,UFS_Sunday_Comics/Monty_Sunday/,mt%symd%sql_Vacation.tif,Sunday Color,/%dS%/,,mt%sW%sql.tif
+,,6,Monty,UFS_Sunday_Comics/Monty_Sunday/,mt%symd%tsc_Vacation.tif,Sunday Color,/%dS%/,,mt%sW%tsc.tif
+,,6,Monty,UFS_Sunday_Comics/Monty_Sunday/,mt%symd%tsl_Vacation.tif,Sunday Color,/%dS%/,,mt%sW%tsl.tif
+,,6,Nancy,UFS_Sunday_Comics/Nancy_Sunday/,nc%symd%comb_ft_Vacation.tif,Sunday Color,/%dS%/,,nc%sW%comb_ft.tif
+,,6,Nancy,UFS_Sunday_Comics/Nancy_Sunday/,nc%symd%comb_hs_Vacation.tif,Sunday Color,/%dS%/,,nc%sW%comb_hs.tif
+,,6,Nancy,UFS_Sunday_Comics/Nancy_Sunday/,nc%symd%comb_qs_Vacation.tif,Sunday Color,/%dS%/,,nc%sW%comb_qs.tif
+,,6,Nancy,UFS_Sunday_Comics/Nancy_Sunday/,nc%symd%comb_sq_Vacation.tif,Sunday Color,/%dS%/,,nc%sW%comb_sq.tif
+,,6,Nancy,UFS_Sunday_Comics/Nancy_Sunday/,nc%symd%comb_ts_Vacation.tif,Sunday Color,/%dS%/,,nc%sW%comb_ts.tif
+,,6,Nancy,UFS_Sunday_Comics/Nancy_Sunday/,nc%symd%ftc_Vacation.tif,Sunday Color,/%dS%/,,nc%sW%ftc.tif
+,,6,Nancy,UFS_Sunday_Comics/Nancy_Sunday/,nc%symd%ftl_Vacation.tif,Sunday Color,/%dS%/,,nc%sW%ftl.tif
+,,6,Nancy,UFS_Sunday_Comics/Nancy_Sunday/,nc%symd%hsc_Vacation.tif,Sunday Color,/%dS%/,,nc%sW%hsc.tif
+,,6,Nancy,UFS_Sunday_Comics/Nancy_Sunday/,nc%symd%hsl_Vacation.tif,Sunday Color,/%dS%/,,nc%sW%hsl.tif
+,,6,Nancy,UFS_Sunday_Comics/Nancy_Sunday/,nc%symd%qsc_Vacation.tif,Sunday Color,/%dS%/,,nc%sW%qsc.tif
+,,6,Nancy,UFS_Sunday_Comics/Nancy_Sunday/,nc%symd%qsl_Vacation.tif,Sunday Color,/%dS%/,,nc%sW%qsl.tif
+,,6,Nancy,UFS_Sunday_Comics/Nancy_Sunday/,nc%symd%sqc_Vacation.tif,Sunday Color,/%dS%/,,nc%sW%sqc.tif
+,,6,Nancy,UFS_Sunday_Comics/Nancy_Sunday/,nc%symd%sql_Vacation.tif,Sunday Color,/%dS%/,,nc%sW%sql.tif
+,,6,Nancy,UFS_Sunday_Comics/Nancy_Sunday/,nc%symd%tsc_Vacation.tif,Sunday Color,/%dS%/,,nc%sW%tsc.tif
+,,6,Nancy,UFS_Sunday_Comics/Nancy_Sunday/,nc%symd%tsl_Vacation.tif,Sunday Color,/%dS%/,,nc%sW%tsl.tif
+,,6,Off the Mark,UFS_Sunday_Comics/Off_the_Mark_Sunday/,of%symd%comb_ht_Vacation.tif,Sunday Color,/%dS%/,,of%sW%htcmyk.tif
+,,6,Off the Mark,UFS_Sunday_Comics/Off_the_Mark_Sunday/,of%symd%comb_qs_Vacation.tif,Sunday Color,/%dS%/,,of%sW%qscmyk.tif
+,,6,Off the Mark,UFS_Sunday_Comics/Off_the_Mark_Sunday/,of%symd%htc_Vacation.tif,Sunday Color,/%dS%/,,of%sW%htc.tif
+,,6,Off the Mark,UFS_Sunday_Comics/Off_the_Mark_Sunday/,of%symd%htl_Vacation.tif,Sunday Color,/%dS%/,,of%sW%htl.tif
+,,6,Off the Mark,UFS_Sunday_Comics/Off_the_Mark_Sunday/,of%symd%qsc_Vacation.tif,Sunday Color,/%dS%/,,of%sW%qsc.tif
+,,6,Off the Mark,UFS_Sunday_Comics/Off_the_Mark_Sunday/,of%symd%qsl_Vacation.tif,Sunday Color,/%dS%/,,of%sW%qsl.tif
+,,6,Over the Hedge,UFS_Sunday_Comics/Over_the_Hedge_Sunday/,oh%symd%comb_ht_Vacation.tif,Sunday Color,/%dS%/,,oh%sW%comb_ht.tif
+,,6,Over the Hedge,UFS_Sunday_Comics/Over_the_Hedge_Sunday/,oh%symd%comb_qs_Vacation.tif,Sunday Color,/%dS%/,,oh%sW%comb_qs.tif
+,,6,Over the Hedge,UFS_Sunday_Comics/Over_the_Hedge_Sunday/,oh%symd%comb_ts_Vacation.tif,Sunday Color,/%dS%/,,oh%sW%comb_ts.tif
+,,6,Over the Hedge,UFS_Sunday_Comics/Over_the_Hedge_Sunday/,oh%symd%htc_Vacation.tif,Sunday Color,/%dS%/,,oh%sW%htc.tif
+,,6,Over the Hedge,UFS_Sunday_Comics/Over_the_Hedge_Sunday/,oh%symd%htl_Vacation.tif,Sunday Color,/%dS%/,,oh%sW%htl.tif
+,,6,Over the Hedge,UFS_Sunday_Comics/Over_the_Hedge_Sunday/,oh%symd%qsc_Vacation.tif,Sunday Color,/%dS%/,,oh%sW%qsc.tif
+,,6,Over the Hedge,UFS_Sunday_Comics/Over_the_Hedge_Sunday/,oh%symd%qsl_Vacation.tif,Sunday Color,/%dS%/,,oh%sW%qsl.tif
+,,6,Over the Hedge,UFS_Sunday_Comics/Over_the_Hedge_Sunday/,oh%symd%tsc_Vacation.tif,Sunday Color,/%dS%/,,oh%sW%tsc.tif
+,,6,Over the Hedge,UFS_Sunday_Comics/Over_the_Hedge_Sunday/,oh%symd%tsl_Vacation.tif,Sunday Color,/%dS%/,,oh%sW%tsl.tif
+,,6,Pearls Before Swine,UFS_Sunday_Comics/Pearls_Before_Swine_Sunday/,pb%symd%comb_qs_Vacation.tif,Sunday Color,/%dS%/,,pb%sW%comb_qs.tif
+,,6,Pearls Before Swine,UFS_Sunday_Comics/Pearls_Before_Swine_Sunday/,pb%symd%comb_sq_Vacation.tif,Sunday Color,/%dS%/,,pb%sW%comb_sq.tif
+,,6,Pearls Before Swine,UFS_Sunday_Comics/Pearls_Before_Swine_Sunday/,pb%symd%comb_sv_Vacation.tif,Sunday Color,/%dS%/,,pb%sW%comb_sv.tif
+,,6,Pearls Before Swine,UFS_Sunday_Comics/Pearls_Before_Swine_Sunday/,pb%symd%comb_ts_Vacation.tif,Sunday Color,/%dS%/,,pb%sW%comb_ts.tif
+,,6,Pearls Before Swine,UFS_Sunday_Comics/Pearls_Before_Swine_Sunday/,pb%symd%qsc_Vacation.tif,Sunday Color,/%dS%/,,pb%sW%qsc.tif
+,,6,Pearls Before Swine,UFS_Sunday_Comics/Pearls_Before_Swine_Sunday/,pb%symd%qsl_Vacation.tif,Sunday Color,/%dS%/,,pb%sW%qsl.tif
+,,6,Pearls Before Swine,UFS_Sunday_Comics/Pearls_Before_Swine_Sunday/,pb%symd%sqc_Vacation.tif,Sunday Color,/%dS%/,,pb%sW%sqc.tif
+,,6,Pearls Before Swine,UFS_Sunday_Comics/Pearls_Before_Swine_Sunday/,pb%symd%sql_Vacation.tif,Sunday Color,/%dS%/,,pb%sW%sql.tif
+,,6,Pearls Before Swine,UFS_Sunday_Comics/Pearls_Before_Swine_Sunday/,pb%symd%svc_Vacation.tif,Sunday Color,/%dS%/,,pb%sW%svc.tif
+,,6,Pearls Before Swine,UFS_Sunday_Comics/Pearls_Before_Swine_Sunday/,pb%symd%svl_Vacation.tif,Sunday Color,/%dS%/,,pb%sW%svl.tif
+,,6,Pearls Before Swine,UFS_Sunday_Comics/Pearls_Before_Swine_Sunday/,pb%symd%tsc_Vacation.tif,Sunday Color,/%dS%/,,pb%sW%tsc.tif
+,,6,Pearls Before Swine,UFS_Sunday_Comics/Pearls_Before_Swine_Sunday/,pb%symd%tsl_Vacation.tif,Sunday Color,/%dS%/,,pb%sW%tsl.tif
+,,6,Prickly City,UFS_Sunday_Comics/Prickly_City_Sunday/,prc%symd%comb_qs_Vacation.tif,Sunday Color,/%dS%/,,pr%sW%qscmyk.tif
+,,6,Prickly City,UFS_Sunday_Comics/Prickly_City_Sunday/,prc%symd%comb_ts_Vacation.tif,Sunday Color,/%dS%/,,pr%sW%tscmyk.tif
+,,6,Prickly City,UFS_Sunday_Comics/Prickly_City_Sunday/,prc%symd%qsc_Vacation.tif,Sunday Color,/%dS%/,,pr%sW%qsc.tif
+,,6,Prickly City,UFS_Sunday_Comics/Prickly_City_Sunday/,prc%symd%qsl_Vacation.tif,Sunday Color,/%dS%/,,pr%sW%qsl.tif
+,,6,Prickly City,UFS_Sunday_Comics/Prickly_City_Sunday/,prc%symd%tsc_Vacation.tif,Sunday Color,/%dS%/,,pr%sW%tsc.tif
+,,6,Prickly City,UFS_Sunday_Comics/Prickly_City_Sunday/,prc%symd%tsk_Vacation.tif,Sunday Color,/%dS%/,,pr%sW%tsk.tif
+,,6,Prickly City,UFS_Sunday_Comics/Prickly_City_Sunday/,prc%symd%tsl_Vacation.tif,Sunday Color,/%dS%/,,pr%sW%tsl.tif
+,,6,Reality Check,UFS_Sunday_Comics/Reality_Check_Sunday/,rc%symd%comb_ht_Vacation.tif,Sunday Color,/%dS%/,,rc%sW%comb_ht.tif
+,,6,Reality Check,UFS_Sunday_Comics/Reality_Check_Sunday/,rc%symd%comb_qs_Vacation.tif,Sunday Color,/%dS%/,,rc%sW%comb_qs.tif
+,,6,Reality Check,UFS_Sunday_Comics/Reality_Check_Sunday/,rc%symd%comb_ts_Vacation.tif,Sunday Color,/%dS%/,,rc%sW%comb_ts.tif
+,,6,Reality Check,UFS_Sunday_Comics/Reality_Check_Sunday/,rc%symd%htc_Vacation.tif,Sunday Color,/%dS%/,,rc%sW%htc.tif
+,,6,Reality Check,UFS_Sunday_Comics/Reality_Check_Sunday/,rc%symd%htl_Vacation.tif,Sunday Color,/%dS%/,,rc%sW%htl.tif
+,,6,Reality Check,UFS_Sunday_Comics/Reality_Check_Sunday/,rc%symd%qsc_Vacation.tif,Sunday Color,/%dS%/,,rc%sW%qsc.tif
+,,6,Reality Check,UFS_Sunday_Comics/Reality_Check_Sunday/,rc%symd%qsl_Vacation.tif,Sunday Color,/%dS%/,,rc%sW%qsl.tif
+,,6,Reality Check,UFS_Sunday_Comics/Reality_Check_Sunday/,rc%symd%tsc_Vacation.tif,Sunday Color,/%dS%/,,rc%sW%tsc.tif
+,,6,Reality Check,UFS_Sunday_Comics/Reality_Check_Sunday/,rc%symd%tsl_Vacation.tif,Sunday Color,/%dS%/,,rc%sW%tsl.tif
+,,6,Ripleys,UFS_Sunday_Comics/Ripleys_Sunday/,rp%symd%comb_ht_Vacation.tif,Sunday Color,/%dS%/,,rp%sW%comb_ht.tif
+,,6,Ripleys,UFS_Sunday_Comics/Ripleys_Sunday/,rp%symd%comb_qs_Vacation.tif,Sunday Color,/%dS%/,,rp%sW%comb_qs.tif
+,,6,Ripleys,UFS_Sunday_Comics/Ripleys_Sunday/,rp%symd%comb_ts_Vacation.tif,Sunday Color,/%dS%/,,rp%sW%comb_ts.tif
+,,6,Ripleys,UFS_Sunday_Comics/Ripleys_Sunday/,rp%symd%htc_Vacation.tif,Sunday Color,/%dS%/,,rp%sW%htc.tif
+,,6,Ripleys,UFS_Sunday_Comics/Ripleys_Sunday/,rp%symd%htl_Vacation.tif,Sunday Color,/%dS%/,,rp%sW%htl.tif
+,,6,Ripleys,UFS_Sunday_Comics/Ripleys_Sunday/,rp%symd%qsc_Vacation.tif,Sunday Color,/%dS%/,,rp%sW%qsc.tif
+,,6,Ripleys,UFS_Sunday_Comics/Ripleys_Sunday/,rp%symd%qsl_Vacation.tif,Sunday Color,/%dS%/,,rp%sW%qsl.tif
+,,6,Ripleys,UFS_Sunday_Comics/Ripleys_Sunday/,rp%symd%tsc_Vacation.tif,Sunday Color,/%dS%/,,rp%sW%tsc.tif
+,,6,Ripleys,UFS_Sunday_Comics/Ripleys_Sunday/,rp%symd%tsl_Vacation.tif,Sunday Color,/%dS%/,,rp%sW%tsl.tif
+,,6,Rose is Rose,UFS_Sunday_Comics/Rose_is_Rose_Sunday/,rr%symd%comb_hs_Vacation.tif,Sunday Color,/%dS%/,,rr%sW%comb_hs.tif
+,,6,Rose is Rose,UFS_Sunday_Comics/Rose_is_Rose_Sunday/,rr%symd%comb_qs_Vacation.tif,Sunday Color,/%dS%/,,rr%sW%comb_qs.tif
+,,6,Rose is Rose,UFS_Sunday_Comics/Rose_is_Rose_Sunday/,rr%symd%comb_sq_Vacation.tif,Sunday Color,/%dS%/,,rr%sW%comb_sq.tif
+,,6,Rose is Rose,UFS_Sunday_Comics/Rose_is_Rose_Sunday/,rr%symd%comb_ts_Vacation.tif,Sunday Color,/%dS%/,,rr%sW%comb_ts.tif
+,,6,Rose is Rose,UFS_Sunday_Comics/Rose_is_Rose_Sunday/,rr%symd%hsc_Vacation.tif,Sunday Color,/%dS%/,,rr%sW%hsc.tif
+,,6,Rose is Rose,UFS_Sunday_Comics/Rose_is_Rose_Sunday/,rr%symd%hsl_Vacation.tif,Sunday Color,/%dS%/,,rr%sW%hsl.tif
+,,6,Rose is Rose,UFS_Sunday_Comics/Rose_is_Rose_Sunday/,rr%symd%qsc_Vacation.tif,Sunday Color,/%dS%/,,rr%sW%qsc.tif
+,,6,Rose is Rose,UFS_Sunday_Comics/Rose_is_Rose_Sunday/,rr%symd%qsl_Vacation.tif,Sunday Color,/%dS%/,,rr%sW%qsl.tif
+,,6,Rose is Rose,UFS_Sunday_Comics/Rose_is_Rose_Sunday/,rr%symd%sqc_Vacation.tif,Sunday Color,/%dS%/,,rr%sW%sqc.tif
+,,6,Rose is Rose,UFS_Sunday_Comics/Rose_is_Rose_Sunday/,rr%symd%sql_Vacation.tif,Sunday Color,/%dS%/,,rr%sW%sql.tif
+,,6,Rose is Rose,UFS_Sunday_Comics/Rose_is_Rose_Sunday/,rr%symd%tsc_Vacation.tif,Sunday Color,/%dS%/,,rr%sW%tsc.tif
+,,6,Rose is Rose,UFS_Sunday_Comics/Rose_is_Rose_Sunday/,rr%symd%tsl_Vacation.tif,Sunday Color,/%dS%/,,rr%sW%tsl.tif
+,,6,Tarzan,UFS_Sunday_Comics/Tarzan_Sunday/,tz%symd%comb_hs_Vacation.tif,Sunday Color,/%dS%/,,tz%sW%comb_hs.tif
+,,6,Tarzan,UFS_Sunday_Comics/Tarzan_Sunday/,tz%symd%hsc_Vacation.tif,Sunday Color,/%dS%/,,tz%sW%hsc.tif
+,,6,Tarzan,UFS_Sunday_Comics/Tarzan_Sunday/,tz%symd%hsl_Vacation.tif,Sunday Color,/%dS%/,,tz%sW%hsl.tif
+,,6,Uncle Arts Funland,UFS_Sunday_Comics/Uncle_Arts_Funland/,fl%symd%comb_ft_Vacation.tif,Sunday Color,/%dS%/,,fl%sW%comb_ft.tif
+,,6,Uncle Arts Funland,UFS_Sunday_Comics/Uncle_Arts_Funland/,fl%symd%comb_hs_Vacation.tif,Sunday Color,/%dS%/,,fl%sW%comb_hs.tif
+,,6,Uncle Arts Funland,UFS_Sunday_Comics/Uncle_Arts_Funland/,fl%symd%comb_qs_Vacation.tif,Sunday Color,/%dS%/,,fl%sW%comb_qs.tif
+,,6,Uncle Arts Funland,UFS_Sunday_Comics/Uncle_Arts_Funland/,fl%symd%comb_ts_Vacation.tif,Sunday Color,/%dS%/,,fl%sW%comb_ts.tif
+,,6,Uncle Arts Funland,UFS_Sunday_Comics/Uncle_Arts_Funland/,fl%symd%ftc_Vacation.tif,Sunday Color,/%dS%/,,fl%sW%ftc.tif
+,,6,Uncle Arts Funland,UFS_Sunday_Comics/Uncle_Arts_Funland/,fl%symd%ftl_Vacation.tif,Sunday Color,/%dS%/,,fl%sW%ftl.tif
+,,6,Uncle Arts Funland,UFS_Sunday_Comics/Uncle_Arts_Funland/,fl%symd%hsc_Vacation.tif,Sunday Color,/%dS%/,,fl%sW%hsc.tif
+,,6,Uncle Arts Funland,UFS_Sunday_Comics/Uncle_Arts_Funland/,fl%symd%hsl_Vacation.tif,Sunday Color,/%dS%/,,fl%sW%hsl.tif
+,,6,Uncle Arts Funland,UFS_Sunday_Comics/Uncle_Arts_Funland/,fl%symd%qsc_Vacation.tif,Sunday Color,/%dS%/,,fl%sW%qsc.tif
+,,6,Uncle Arts Funland,UFS_Sunday_Comics/Uncle_Arts_Funland/,fl%symd%qsl_Vacation.tif,Sunday Color,/%dS%/,,fl%sW%qsl.tif
+,,6,Uncle Arts Funland,UFS_Sunday_Comics/Uncle_Arts_Funland/,fl%symd%tsc_Vacation.tif,Sunday Color,/%dS%/,,fl%sW%tsc.tif
+,,6,Uncle Arts Funland,UFS_Sunday_Comics/Uncle_Arts_Funland/,fl%symd%tsl_Vacation.tif,Sunday Color,/%dS%/,,fl%sW%tsl.tif
+,,6,For Better or For Worse,Sunday_Comics/FBOFW_Sundays/,fb%symd%comb_ft_Vacation.tif,Sunday Color,/%dS%/,,fb%sW%ftcmyk.tif
+,,6,For Better or For Worse,Sunday_Comics/FBOFW_Sundays/,fb%symd%comb_hs_Vacation.tif,Sunday Color,/%dS%/,,fb%sW%hscmyk.tif
+,,6,For Better or For Worse,Sunday_Comics/FBOFW_Sundays/,fb%symd%comb_qs_Vacation.tif,Sunday Color,/%dS%/,,fb%sW%qscmyk.tif
+,,6,For Better or For Worse,Sunday_Comics/FBOFW_Sundays/,fb%symd%comb_ts_Vacation.tif,Sunday Color,/%dS%/,,fb%sW%tscmyk.tif
+,,6,For Better or For Worse,Sunday_Comics/FBOFW_Sundays/,fb%symd%qsc_Vacation.tif,Sunday Color,/%dS%/,,fb%sW%qsc.tif
+,,6,For Better or For Worse,Sunday_Comics/FBOFW_Sundays/,fb%symd%qsl_Vacation.tif,Sunday Color,/%dS%/,,fb%sW%qsl.tif
+,,6,For Better or For Worse,Sunday_Comics/FBOFW_Sundays/,fb%symd%ftc_Vacation.tif,Sunday Color,/%dS%/,,fb%sW%ftc.tif
+,,6,For Better or For Worse,Sunday_Comics/FBOFW_Sundays/,ft%symd%ftl_Vacation.tif,Sunday Color,/%dS%/,,fb%sW%ftl.tif
+,,6,For Better or For Worse,Sunday_Comics/FBOFW_Sundays/,fb%symd%hsc_Vacation.tif,Sunday Color,/%dS%/,,fb%sW%hsc.tif
+,,6,For Better or For Worse,Sunday_Comics/FBOFW_Sundays/,fb%symd%hsl_Vacation.tif,Sunday Color,/%dS%/,,fb%sW%hsl.tif
+,,6,For Better or For Worse,Sunday_Comics/FBOFW_Sundays/,fb%symd%tsc_Vacation.tif,Sunday Color,/%dS%/,,fb%sW%tsc.tif
+,,6,For Better or For Worse,Sunday_Comics/FBOFW_Sundays/,fb%symd%tsl_Vacation.tif,Sunday Color,/%dS%/,,fb%sW%tsl.tif
+,,6,Doonesbury,Sunday_Comics/Doonesbury/,db%symd%mvl_Vacation.tif,Sunday Color,/%dS%/,,db%sW%mvl.tif
+,,6,Arlo and Janis,UFS_Sunday_Comcs/Arlo_and_Janis_Sunday/,aj%symd%qsl_Vacation.tif,Sunday Color,/%dS%/,,aj%sW%qsl.tif
+,,6,Arlo and Janis,UFS_Sunday_Comics/Arlo_and_Janis_Sunday/,aj%symd%qsc_Vacation.tif,Sunday Color,/%dS%/,,aj%sW%qsc.tif
