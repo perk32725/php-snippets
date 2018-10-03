@@ -91,7 +91,6 @@ if (function_exists('pcntl_fork')) {
     }
 
 # --- parent process continues:
-#echo date('Y-m-d H:i:s ') . "[$myPid] waiting for child process [$childPid]\n";
     stdlog("waiting for child process [$childPid]");
     pcntl_wait($status); # Protect against Zombie children
     stdlog("child process [$childPid] returned $status");
