@@ -21,7 +21,7 @@ if ($argc > 1) {     # means we have some args passed to us
 }
 
 #------------------------------------
-# standard logging function:
+# fancy logging function:
 #------------------------------------
 function stdlog($msg) {
     global $logfile;
